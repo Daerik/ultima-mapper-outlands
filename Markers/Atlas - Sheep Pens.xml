@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Pack Name="Atlas - Sheep Pens" Revision="0">
+	<Marker Name="Sheep Pen" X="1873" Y="2594" Icon="SCENIC" Facet="0"/>
+	<Marker Name="Sheep Pen" X="1968" Y="2570" Icon="SCENIC" Facet="0"/>
+	<Marker Name="Sheep Pen" X="1590" Y="2605" Icon="SCENIC" Facet="0"/>
+	<Marker Name="Sheep Pen" X="1643" Y="3105" Icon="SCENIC" Facet="0"/>
+	<Marker Name="Sheep Pen" X="2114" Y="2314" Icon="SCENIC" Facet="0"/>
+	<Marker Name="Sheep Pen" X="1951" Y="1777" Icon="SCENIC" Facet="0"/>
+	<Marker Name="Sheep Pen" X="1982" Y="1468" Icon="SCENIC" Facet="0"/>
+	<Marker Name="Sheep Pen" X="1513" Y="1284" Icon="SCENIC" Facet="0"/>
+	<Marker Name="Sheep Pen" X="2287" Y="655" Icon="SCENIC" Facet="0"/>
+	<Marker Name="Sheep Pen" X="2278" Y="757" Icon="SCENIC" Facet="0"/>
+	<Marker Name="Sheep Pen" X="805" Y="1399" Icon="SCENIC" Facet="0"/>
+</Pack>

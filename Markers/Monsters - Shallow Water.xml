@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Pack Name="Monsters - Shallow Water" Revision="0">
+	<Marker Name="shallow water (ELEMENTAL) (tier 4) (10 gp, 150 hp, 5-10 dmg) (0 ar, 100 mr, 0 pr) (40 wr, 0 mg, 0 ev) Min. taming: 50" X="5156" Y="1362" Icon="CORPSE" Facet="0"/>
+	<Marker Name="shallow water (ELEMENTAL) (tier 4) (10 gp, 150 hp, 5-10 dmg) (0 ar, 100 mr, 0 pr) (40 wr, 0 mg, 0 ev) Min. taming: 50" X="5203" Y="1312" Icon="CORPSE" Facet="0"/>
+	<Marker Name="shallow water (ELEMENTAL) (tier 4) (10 gp, 150 hp, 5-10 dmg) (0 ar, 100 mr, 0 pr) (40 wr, 0 mg, 0 ev) Min. taming: 50" X="5193" Y="1330" Icon="CORPSE" Facet="0"/>
+	<Marker Name="shallow water (ELEMENTAL) (tier 4) (10 gp, 150 hp, 5-10 dmg) (0 ar, 100 mr, 0 pr) (40 wr, 0 mg, 0 ev) Min. taming: 50" X="2099" Y="0983" Icon="CORPSE" Facet="0"/>
+	<Marker Name="shallow water (ELEMENTAL) (tier 4) (10 gp, 150 hp, 5-10 dmg) (0 ar, 100 mr, 0 pr) (40 wr, 0 mg, 0 ev) Min. taming: 50" X="2041" Y="0988" Icon="CORPSE" Facet="0"/>
+	<Marker Name="shallow water (ELEMENTAL) (tier 4) (10 gp, 150 hp, 5-10 dmg) (0 ar, 100 mr, 0 pr) (40 wr, 0 mg, 0 ev) Min. taming: 50" X="2072" Y="0984" Icon="CORPSE" Facet="0"/>
+</Pack>

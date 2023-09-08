@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Pack Name="NPC - Mapmakers" Revision="0">
+	<Marker Name="Shelter Mapmaker" X="1967" Y="2619" Icon="SHIPWRIGHT" Facet="0"/>
+	<Marker Name="Shelter Mapmaker" X="1933" Y="2656" Icon="SHIPWRIGHT" Facet="0"/>
+	<Marker Name="Andaria Mapmaker" X="2169" Y="789" Icon="SHIPWRIGHT" Facet="0"/>
+	<Marker Name="Horseshoe Bay Mapmaker" X="2014" Y="2243" Icon="SHIPWRIGHT" Facet="0"/>
+	<Marker Name="Cambria Mapmaker" X="1755" Y="3016" Icon="SHIPWRIGHT" Facet="0"/>
+</Pack>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Pack Name="NPC - Bowyers" Revision="0">
+	<Marker Name="Shelter Bowyer" X="1968" Y="2605" Icon="BOWYER" Facet="0"/>
+	<Marker Name="Horseshoe Bay Bowyer" X="2010" Y="2185" Icon="BOWYER" Facet="0"/>
+	<Marker Name="Cambria Bowyer" X="1798" Y="2912" Icon="BOWYER" Facet="0"/>
+	<Marker Name="Terran Bowyer" X="748" Y="1549" Icon="BOWYER" Facet="0"/>
+</Pack>

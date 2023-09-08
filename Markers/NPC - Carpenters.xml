@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Pack Name="NPC - Carpenters" Revision="0">
+	<Marker Name="Shelter Carpenter" X="1979" Y="2606" Icon="CARPENTER" Facet="0"/>
+	<Marker Name="Prevalia Carpenter" X="1578" Y="1556" Icon="CARPENTER" Facet="0"/>
+	<Marker Name="Prevalia Carpenter" X="1846" Y="1730" Icon="CARPENTER" Facet="0"/>
+	<Marker Name="Cambria Carpenter" X="1801" Y="2969" Icon="CARPENTER" Facet="0"/>
+	<Marker Name="Cambria Carpenter" X="1852" Y="3049" Icon="CARPENTER" Facet="0"/>
+	<Marker Name="Cambria Carpenter" X="1852" Y="3049" Icon="CARPENTER" Facet="0"/>
+	<Marker Name="Andaria Carpenter" X="2231" Y="712" Icon="CARPENTER" Facet="0"/>
+	<Marker Name="Andaria Carpenter" X="2187" Y="765" Icon="CARPENTER" Facet="0"/>
+	<Marker Name="Horseshoe Bay Carpenter" X="2003" Y="2180" Icon="CARPENTER" Facet="0"/>
+	<Marker Name="Terran Carpenter" X="677" Y="1484" Icon="CARPENTER" Facet="0"/>
+	<Marker Name="Corpse Creek Carpenter" X="880" Y="691" Icon="CARPENTER" Facet="0"/>
+	<Marker Name="Outpost Carpenter" X="3061" Y="513" Icon="CARPENTER" Facet="0"/>
+</Pack>

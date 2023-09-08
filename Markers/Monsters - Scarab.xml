@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Pack Name="Monsters - Scarab" Revision="0">
+    <Marker Name="a scarab (CONSTRUCT) (tier 10) (75 gp, 500 hp, 10-20 dmg) (50 ar, 75 mr, 0 pr) (50 wr, 0 mg, 0 ev) Min. taming: 70" X="5818" Y="1288" Icon="CORPSE" Facet="0"/>
+    <Marker Name="a scarab (CONSTRUCT) (tier 10) (75 gp, 500 hp, 10-20 dmg) (50 ar, 75 mr, 0 pr) (50 wr, 0 mg, 0 ev) Min. taming: 70" X="5816" Y="1333" Icon="CORPSE" Facet="0"/>
+    <Marker Name="a scarab (CONSTRUCT) (tier 10) (75 gp, 500 hp, 10-20 dmg) (50 ar, 75 mr, 0 pr) (50 wr, 0 mg, 0 ev) Min. taming: 70" X="5826" Y="1349" Icon="CORPSE" Facet="0"/>
+    <Marker Name="a scarab (CONSTRUCT) (tier 10) (75 gp, 500 hp, 10-20 dmg) (50 ar, 75 mr, 0 pr) (50 wr, 0 mg, 0 ev) Min. taming: 70" X="5851" Y="1314" Icon="CORPSE" Facet="0"/>
+    <Marker Name="a scarab (CONSTRUCT) (tier 10) (75 gp, 500 hp, 10-20 dmg) (50 ar, 75 mr, 0 pr) (50 wr, 0 mg, 0 ev) Min. taming: 70" X="1237" Y="2917" Icon="CORPSE" Facet="0"/>
+    <Marker Name="a scarab (CONSTRUCT) (tier 10) (75 gp, 500 hp, 10-20 dmg) (50 ar, 75 mr, 0 pr) (50 wr, 0 mg, 0 ev) Min. taming: 70" X="1221" Y="2931" Icon="CORPSE" Facet="0"/>
+</Pack>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Pack Name="Monsters - Minotaur" Revision="0">
+    <Marker Name="a minotaur (MONSTROUS) (tier 13) (150 gp, 600 hp, 20-30 dmg) (25 ar, 25 mr, 0 pr) (80 wr, 0 mg, 0 ev)" X="5561" Y="2901" Icon="CORPSE" Facet="0"/>
+    <Marker Name="a minotaur (MONSTROUS) (tier 13) (150 gp, 600 hp, 20-30 dmg) (25 ar, 25 mr, 0 pr) (80 wr, 0 mg, 0 ev)" X="5581" Y="2896" Icon="CORPSE" Facet="0"/>
+    <Marker Name="a minotaur (MONSTROUS) (tier 13) (150 gp, 600 hp, 20-30 dmg) (25 ar, 25 mr, 0 pr) (80 wr, 0 mg, 0 ev)" X="5577" Y="2921" Icon="CORPSE" Facet="0"/>
+    <Marker Name="a minotaur (MONSTROUS) (tier 13) (150 gp, 600 hp, 20-30 dmg) (25 ar, 25 mr, 0 pr) (80 wr, 0 mg, 0 ev)" X="1205" Y="1677" Icon="CORPSE" Facet="0"/>
+    <Marker Name="a minotaur (MONSTROUS) (tier 13) (150 gp, 600 hp, 20-30 dmg) (25 ar, 25 mr, 0 pr) (80 wr, 0 mg, 0 ev)" X="1204" Y="1630" Icon="CORPSE" Facet="0"/>
+    <Marker Name="a minotaur (MONSTROUS) (tier 13) (150 gp, 600 hp, 20-30 dmg) (25 ar, 25 mr, 0 pr) (80 wr, 0 mg, 0 ev)" X="1103" Y="1678" Icon="CORPSE" Facet="0"/>
+    <Marker Name="a minotaur (MONSTROUS) (tier 13) (150 gp, 600 hp, 20-30 dmg) (25 ar, 25 mr, 0 pr) (80 wr, 0 mg, 0 ev)" X="1092" Y="1666" Icon="CORPSE" Facet="0"/>
+    <Marker Name="a minotaur (MONSTROUS) (tier 13) (150 gp, 600 hp, 20-30 dmg) (25 ar, 25 mr, 0 pr) (80 wr, 0 mg, 0 ev)" X="1145" Y="1658" Icon="CORPSE" Facet="0"/>
+    <Marker Name="a minotaur (MONSTROUS) (tier 13) (150 gp, 600 hp, 20-30 dmg) (25 ar, 25 mr, 0 pr) (80 wr, 0 mg, 0 ev)" X="1117" Y="1648" Icon="CORPSE" Facet="0"/>
+    <Marker Name="a minotaur (MONSTROUS) (tier 13) (150 gp, 600 hp, 20-30 dmg) (25 ar, 25 mr, 0 pr) (80 wr, 0 mg, 0 ev)" X="1100" Y="1652" Icon="CORPSE" Facet="0"/>
+</Pack>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Pack Name="NPC - Tinkerers" Revision="0">
+	<Marker Name="Andaria  Tinker" X="2206" Y="661" Icon="TINKER" Facet="0"/>
+	<Marker Name="Andaria  Tinker" X="2207" Y="641" Icon="TINKER" Facet="0"/>
+	<Marker Name="Cambria  Tinker" X="1683" Y="2917" Icon="TINKER" Facet="0"/>
+	<Marker Name="Cambria  Tinker" X="1683" Y="2917" Icon="TINKER" Facet="0"/>
+	<Marker Name="Cambria  Tinker" X="1810" Y="2973" Icon="TINKER" Facet="0"/>
+	<Marker Name="Corpse Creek  Tinker" X="869" Y="725" Icon="TINKER" Facet="0"/>
+	<Marker Name="Horseshoe Bay  Tinker" X="2004" Y="2184" Icon="TINKER" Facet="0"/>
+	<Marker Name="Outpost  Tinker" X="3059" Y="526" Icon="TINKER" Facet="0"/>
+	<Marker Name="Prevalia Tinker" X="1618" Y="1549" Icon="TINKER" Facet="0"/>
+	<Marker Name="Shelter Tinker" X="1985" Y="2566" Icon="TINKER" Facet="0"/>
+	<Marker Name="Terran  Tinker" X="751" Y="1520" Icon="TINKER" Facet="0"/>
+</Pack>

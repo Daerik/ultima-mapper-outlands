@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Pack Name="Monsters - Darkmire Elder" Revision="0">
+    <Marker Name="a darkmire elder (HUMANOID) (tier 13) (150 gp, 500 hp, 10-20 dmg) (25 ar, 150 mr, 0 pr) (80 wr, 50 mg, 50 ev)" X="5326" Y="2002" Icon="CORPSE" Facet="0"/>
+    <Marker Name="a darkmire elder (HUMANOID) (tier 13) (150 gp, 500 hp, 10-20 dmg) (25 ar, 150 mr, 0 pr) (80 wr, 50 mg, 50 ev)" X="5348" Y="1950" Icon="CORPSE" Facet="0"/>
+    <Marker Name="a darkmire elder (HUMANOID) (tier 13) (150 gp, 500 hp, 10-20 dmg) (25 ar, 150 mr, 0 pr) (80 wr, 50 mg, 50 ev)" X="5365" Y="1946" Icon="CORPSE" Facet="0"/>
+    <Marker Name="a darkmire elder (HUMANOID) (tier 13) (150 gp, 500 hp, 10-20 dmg) (25 ar, 150 mr, 0 pr) (80 wr, 50 mg, 50 ev)" X="5341" Y="2044" Icon="CORPSE" Facet="0"/>
+</Pack>

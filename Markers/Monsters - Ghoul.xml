@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Pack Name="Monsters - Ghoul" Revision="0">
+	<Marker Name="a ghoul (UNDEAD) (tier 4) (10 gp, 175 hp, 5-10 dmg) (25 ar, 50 mr, 20 pr) (55 wr, 25 mg, 25 ev)" X="5790" Y="1366" Icon="CORPSE" Facet="0"/>
+	<Marker Name="a ghoul (UNDEAD) (tier 4) (10 gp, 175 hp, 5-10 dmg) (25 ar, 50 mr, 20 pr) (55 wr, 25 mg, 25 ev)" X="5801" Y="1378" Icon="CORPSE" Facet="0"/>
+	<Marker Name="a ghoul (UNDEAD) (tier 4) (10 gp, 175 hp, 5-10 dmg) (25 ar, 50 mr, 20 pr) (55 wr, 25 mg, 25 ev)" X="5857" Y="1331" Icon="CORPSE" Facet="0"/>
+	<Marker Name="a ghoul (UNDEAD) (tier 4) (10 gp, 175 hp, 5-10 dmg) (25 ar, 50 mr, 20 pr) (55 wr, 25 mg, 25 ev)" X="5854" Y="1321" Icon="CORPSE" Facet="0"/>
+	<Marker Name="a ghoul (UNDEAD) (tier 4) (10 gp, 175 hp, 5-10 dmg) (25 ar, 50 mr, 20 pr) (55 wr, 25 mg, 25 ev)" X="5934" Y="1334" Icon="CORPSE" Facet="0"/>
+	<Marker Name="a ghoul (UNDEAD) (tier 4) (10 gp, 175 hp, 5-10 dmg) (25 ar, 50 mr, 20 pr) (55 wr, 25 mg, 25 ev)" X="5558" Y="0456" Icon="CORPSE" Facet="0"/>
+	<Marker Name="a ghoul (UNDEAD) (tier 4) (10 gp, 175 hp, 5-10 dmg) (25 ar, 50 mr, 20 pr) (55 wr, 25 mg, 25 ev)" X="5558" Y="0465" Icon="CORPSE" Facet="0"/>
+	<Marker Name="a ghoul (UNDEAD) (tier 4) (10 gp, 175 hp, 5-10 dmg) (25 ar, 50 mr, 20 pr) (55 wr, 25 mg, 25 ev)" X="5556" Y="0477" Icon="CORPSE" Facet="0"/>
+	<Marker Name="a ghoul (UNDEAD) (tier 4) (10 gp, 175 hp, 5-10 dmg) (25 ar, 50 mr, 20 pr) (55 wr, 25 mg, 25 ev)" X="1017" Y="1718" Icon="CORPSE" Facet="0"/>
+	<Marker Name="a ghoul (UNDEAD) (tier 4) (10 gp, 175 hp, 5-10 dmg) (25 ar, 50 mr, 20 pr) (55 wr, 25 mg, 25 ev)" X="0988" Y="1709" Icon="CORPSE" Facet="0"/>
+	<Marker Name="a ghoul (UNDEAD) (tier 4) (10 gp, 175 hp, 5-10 dmg) (25 ar, 50 mr, 20 pr) (55 wr, 25 mg, 25 ev)" X="0957" Y="1707" Icon="CORPSE" Facet="0"/>
+	<Marker Name="a ghoul (UNDEAD) (tier 4) (10 gp, 175 hp, 5-10 dmg) (25 ar, 50 mr, 20 pr) (55 wr, 25 mg, 25 ev)" X="0969" Y="1739" Icon="CORPSE" Facet="0"/>
+	<Marker Name="a ghoul (UNDEAD) (tier 4) (10 gp, 175 hp, 5-10 dmg) (25 ar, 50 mr, 20 pr) (55 wr, 25 mg, 25 ev)" X="2072" Y="0501" Icon="CORPSE" Facet="0"/>
+	<Marker Name="a ghoul (UNDEAD) (tier 4) (10 gp, 175 hp, 5-10 dmg) (25 ar, 50 mr, 20 pr) (55 wr, 25 mg, 25 ev)" X="2087" Y="0485" Icon="CORPSE" Facet="0"/>
+	<Marker Name="a ghoul (UNDEAD) (tier 4) (10 gp, 175 hp, 5-10 dmg) (25 ar, 50 mr, 20 pr) (55 wr, 25 mg, 25 ev)" X="2101" Y="0500" Icon="CORPSE" Facet="0"/>
+	<Marker Name="a ghoul (UNDEAD) (tier 4) (10 gp, 175 hp, 5-10 dmg) (25 ar, 50 mr, 20 pr) (55 wr, 25 mg, 25 ev)" X="2112" Y="0507" Icon="CORPSE" Facet="0"/>
+	<Marker Name="a ghoul (UNDEAD) (tier 4) (10 gp, 175 hp, 5-10 dmg) (25 ar, 50 mr, 20 pr) (55 wr, 25 mg, 25 ev)" X="2119" Y="2159" Icon="CORPSE" Facet="0"/>
+	<Marker Name="a ghoul (UNDEAD) (tier 4) (10 gp, 175 hp, 5-10 dmg) (25 ar, 50 mr, 20 pr) (55 wr, 25 mg, 25 ev)" X="2108" Y="2166" Icon="CORPSE" Facet="0"/>
+	<Marker Name="a ghoul (UNDEAD) (tier 4) (10 gp, 175 hp, 5-10 dmg) (25 ar, 50 mr, 20 pr) (55 wr, 25 mg, 25 ev)" X="1898" Y="1788" Icon="CORPSE" Facet="0"/>
+	<Marker Name="a ghoul (UNDEAD) (tier 4) (10 gp, 175 hp, 5-10 dmg) (25 ar, 50 mr, 20 pr) (55 wr, 25 mg, 25 ev)" X="1897" Y="1812" Icon="CORPSE" Facet="0"/>
+	<Marker Name="a ghoul (UNDEAD) (tier 4) (10 gp, 175 hp, 5-10 dmg) (25 ar, 50 mr, 20 pr) (55 wr, 25 mg, 25 ev)" X="1458" Y="2243" Icon="CORPSE" Facet="0"/>
+</Pack>

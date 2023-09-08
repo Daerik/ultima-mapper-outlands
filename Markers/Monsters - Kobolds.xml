@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Pack Name="Monsters - Kobolds" Revision="0">
+    <Marker Name="a kobold (MONSTROUS) (tier 6) (20 gp, 175 hp, 6-12 dmg) (25 ar, 75 mr, 0 pr) (70 wr, 0 mg, 0 ev)" X="5903" Y="0128" Icon="CORPSE" Facet="0"/>
+    <Marker Name="a kobold (MONSTROUS) (tier 6) (20 gp, 175 hp, 6-12 dmg) (25 ar, 75 mr, 0 pr) (70 wr, 0 mg, 0 ev)" X="5887" Y="0112" Icon="CORPSE" Facet="0"/>
+    <Marker Name="a kobold (MONSTROUS) (tier 6) (20 gp, 175 hp, 6-12 dmg) (25 ar, 75 mr, 0 pr) (70 wr, 0 mg, 0 ev)" X="5910" Y="0155" Icon="CORPSE" Facet="0"/>
+    <Marker Name="a kobold (MONSTROUS) (tier 6) (20 gp, 175 hp, 6-12 dmg) (25 ar, 75 mr, 0 pr) (70 wr, 0 mg, 0 ev)" X="5904" Y="0141" Icon="CORPSE" Facet="0"/>
+    <Marker Name="a kobold (MONSTROUS) (tier 6) (20 gp, 175 hp, 6-12 dmg) (25 ar, 75 mr, 0 pr) (70 wr, 0 mg, 0 ev)" X="1353" Y="1778" Icon="CORPSE" Facet="0"/>
+    <Marker Name="a kobold (MONSTROUS) (tier 6) (20 gp, 175 hp, 6-12 dmg) (25 ar, 75 mr, 0 pr) (70 wr, 0 mg, 0 ev)" X="1341" Y="1758" Icon="CORPSE" Facet="0"/>
+    <Marker Name="a kobold (MONSTROUS) (tier 6) (20 gp, 175 hp, 6-12 dmg) (25 ar, 75 mr, 0 pr) (70 wr, 0 mg, 0 ev)" X="1324" Y="1770" Icon="CORPSE" Facet="0"/>
+    <Marker Name="a kobold (MONSTROUS) (tier 6) (20 gp, 175 hp, 6-12 dmg) (25 ar, 75 mr, 0 pr) (70 wr, 0 mg, 0 ev)" X="1282" Y="1802" Icon="CORPSE" Facet="0"/>
+    <Marker Name="a kobold (MONSTROUS) (tier 6) (20 gp, 175 hp, 6-12 dmg) (25 ar, 75 mr, 0 pr) (70 wr, 0 mg, 0 ev)" X="1246" Y="1806" Icon="CORPSE" Facet="0"/>
+    <Marker Name="a kobold (MONSTROUS) (tier 6) (20 gp, 175 hp, 6-12 dmg) (25 ar, 75 mr, 0 pr) (70 wr, 0 mg, 0 ev)" X="1230" Y="1811" Icon="CORPSE" Facet="0"/>
+    <Marker Name="a kobold (MONSTROUS) (tier 6) (20 gp, 175 hp, 6-12 dmg) (25 ar, 75 mr, 0 pr) (70 wr, 0 mg, 0 ev)" X="1233" Y="1816" Icon="CORPSE" Facet="0"/>
+    <Marker Name="a kobold (MONSTROUS) (tier 6) (20 gp, 175 hp, 6-12 dmg) (25 ar, 75 mr, 0 pr) (70 wr, 0 mg, 0 ev)" X="1289" Y="1777" Icon="CORPSE" Facet="0"/>
+    <Marker Name="a kobold (MONSTROUS) (tier 6) (20 gp, 175 hp, 6-12 dmg) (25 ar, 75 mr, 0 pr) (70 wr, 0 mg, 0 ev)" X="1276" Y="1771" Icon="CORPSE" Facet="0"/>
+</Pack>

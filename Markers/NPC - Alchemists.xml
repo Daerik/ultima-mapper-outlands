@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Pack Name="NPC - Alchemists" Revision="0">
+	<Marker Name="Shelter Alchemist" X="1917" Y="2608" Icon="REAGENTS" Facet="0"/>
+	<Marker Name="Prevalia Alchemist" X="1613" Y="1479" Icon="REAGENTS" Facet="0"/>
+	<Marker Name="Prevalia Alchemist" X="1755" Y="1418" Icon="REAGENTS" Facet="0"/>
+	<Marker Name="Prevalia Alchemist" X="1877" Y="1700" Icon="REAGENTS" Facet="0"/>
+	<Marker Name="Prevalia Alchemist" X="1907" Y="1700" Icon="REAGENTS" Facet="0"/>
+	<Marker Name="Cambria Alchemist" X="1702" Y="2905" Icon="REAGENTS" Facet="0"/>
+	<Marker Name="Cambria Alchemist" X="1730" Y="2907" Icon="REAGENTS" Facet="0"/>
+	<Marker Name="Cambria Herbalist" X="1762" Y="2886" Icon="REAGENTS" Facet="0"/>
+	<Marker Name="Andaria Alchemist" X="2244" Y="687" Icon="REAGENTS" Facet="0"/>
+	<Marker Name="Andaria Alchemist" X="2225" Y="595" Icon="REAGENTS" Facet="0"/>
+	<Marker Name="Horseshoe Bay Alchemist" X="1996" Y="2245" Icon="REAGENTS" Facet="0"/>
+	<Marker Name="Terran Alchemist" X="761" Y="1486" Icon="REAGENTS" Facet="0"/>
+	<Marker Name="Corpse Creek Alchemist" X="884" Y="715" Icon="REAGENTS" Facet="0"/>
+	<Marker Name="Outpost Alchemist" X="3031" Y="514" Icon="REAGENTS" Facet="0"/>
+</Pack>

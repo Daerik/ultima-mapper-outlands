@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Pack Name="Towns - Docks" Revision="0">
+	<Marker Name="Shelter Island Docks" X="1961" Y="2638" Icon="DOCKS" Facet="0"/>
+	<Marker Name="Andaria Docks" X="2155" Y="814" Icon="DOCKS" Facet="0"/>
+	<Marker Name="Andaria Docks" X="2183" Y="814" Icon="DOCKS" Facet="0"/>
+	<Marker Name="Andaria Docks" X="2257" Y="700" Icon="DOCKS" Facet="0"/>
+	<Marker Name="Andaria Docks" X="2263" Y="618" Icon="DOCKS" Facet="0"/>
+	<Marker Name="Horseshoe Bay Docks" X="2046" Y="2207" Icon="DOCKS" Facet="0"/>
+	<Marker Name="Horseshoe Bay Docks" X="2036" Y="2342" Icon="DOCKS" Facet="0"/>
+	<Marker Name="Horseshoe Bay Docks" X="2040" Y="2179" Icon="DOCKS" Facet="0"/>
+	<Marker Name="Cambria Docks" X="1916" Y="3100" Icon="DOCKS" Facet="0"/>
+	<Marker Name="Cambria Docks" X="1933" Y="3083" Icon="DOCKS" Facet="0"/>
+	<Marker Name="Cambria Docks" X="1935" Y="3048" Icon="DOCKS" Facet="0"/>
+	<Marker Name="Cambria Docks" X="1946" Y="2886" Icon="DOCKS" Facet="0"/>
+</Pack>

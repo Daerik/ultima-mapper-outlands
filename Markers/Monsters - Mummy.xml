@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Pack Name="Monsters - Mummy" Revision="0">
+	<Marker Name="a mummy (UNDEAD) (tier 13) (150 gp, 1000 hp, 15-25 dmg) (25 ar, 25 mr, 40 pr) (60 wr, 0 mg, 0 ev)" X="5674" Y="1287" Icon="CORPSE" Facet="0"/>
+	<Marker Name="a mummy (UNDEAD) (tier 13) (150 gp, 1000 hp, 15-25 dmg) (25 ar, 25 mr, 40 pr) (60 wr, 0 mg, 0 ev)" X="5677" Y="1273" Icon="CORPSE" Facet="0"/>
+	<Marker Name="a mummy (UNDEAD) (tier 13) (150 gp, 1000 hp, 15-25 dmg) (25 ar, 25 mr, 40 pr) (60 wr, 0 mg, 0 ev)" X="1422" Y="2690" Icon="CORPSE" Facet="0"/>
+	<Marker Name="a mummy (UNDEAD) (tier 13) (150 gp, 1000 hp, 15-25 dmg) (25 ar, 25 mr, 40 pr) (60 wr, 0 mg, 0 ev)" X="1391" Y="2670" Icon="CORPSE" Facet="0"/>
+	<Marker Name="a mummy (UNDEAD) (tier 13) (150 gp, 1000 hp, 15-25 dmg) (25 ar, 25 mr, 40 pr) (60 wr, 0 mg, 0 ev)" X="1409" Y="2741" Icon="CORPSE" Facet="0"/>
+	<Marker Name="a mummy (UNDEAD) (tier 13) (150 gp, 1000 hp, 15-25 dmg) (25 ar, 25 mr, 40 pr) (60 wr, 0 mg, 0 ev)" X="1381" Y="2708" Icon="CORPSE" Facet="0"/>
+	<Marker Name="a mummy (UNDEAD) (tier 13) (150 gp, 1000 hp, 15-25 dmg) (25 ar, 25 mr, 40 pr) (60 wr, 0 mg, 0 ev)" X="1365" Y="2656" Icon="CORPSE" Facet="0"/>
+	<Marker Name="a mummy (UNDEAD) (tier 13) (150 gp, 1000 hp, 15-25 dmg) (25 ar, 25 mr, 40 pr) (60 wr, 0 mg, 0 ev)" X="1345" Y="2643" Icon="CORPSE" Facet="0"/>
+	<Marker Name="a mummy (UNDEAD) (tier 13) (150 gp, 1000 hp, 15-25 dmg) (25 ar, 25 mr, 40 pr) (60 wr, 0 mg, 0 ev)" X="1330" Y="2680" Icon="CORPSE" Facet="0"/>
+	<Marker Name="a mummy (UNDEAD) (tier 13) (150 gp, 1000 hp, 15-25 dmg) (25 ar, 25 mr, 40 pr) (60 wr, 0 mg, 0 ev)" X="1320" Y="2646" Icon="CORPSE" Facet="0"/>
+	<Marker Name="a mummy (UNDEAD) (tier 13) (150 gp, 1000 hp, 15-25 dmg) (25 ar, 25 mr, 40 pr) (60 wr, 0 mg, 0 ev)" X="1189" Y="2959" Icon="CORPSE" Facet="0"/>
+</Pack>

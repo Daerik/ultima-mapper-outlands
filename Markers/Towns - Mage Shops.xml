@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Pack Name="Towns - Mage Shops" Revision="0">
+	<Marker Name="Shelter Mage Shop" X="1919" Y="2617" Icon="MAGE" Facet="0"/>
+	<Marker Name="Prevalia Mage Shop" X="1725" Y="1432" Icon="MAGE" Facet="0"/>
+	<Marker Name="Prevalia Mage Shop" X="1878" Y="1731" Icon="MAGE" Facet="0"/>
+	<Marker Name="Cambria Mage Shop" X="1695" Y="2905" Icon="MAGE" Facet="0"/>
+	<Marker Name="Cambria Mage Shop" X="1759" Y="2981" Icon="MAGE" Facet="0"/>
+	<Marker Name="Andaria Mage Shop" X="2234" Y="686" Icon="MAGE" Facet="0"/>
+	<Marker Name="Andaria Mage Shop" X="2208" Y="603" Icon="MAGE" Facet="0"/>
+	<Marker Name="Horseshoe Bay Mage Shop" X="1999" Y="2250" Icon="MAGE" Facet="0"/>
+	<Marker Name="Andaria Mage Shop" X="1916" Y="2611" Icon="MAGE" Facet="0"/>
+	<Marker Name="Terran Mage Shop" X="755" Y="1495" Icon="MAGE" Facet="0"/>
+	<Marker Name="Corpse Creek Mage Shop" X="883" Y="713" Icon="MAGE" Facet="0"/>
+	<Marker Name="Outpost Mage Shop" X="3032" Y="514" Icon="MAGE" Facet="0"/>
+</Pack>

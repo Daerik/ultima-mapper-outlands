@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Pack Name="Monsters - Bonfire Wisp" Revision="0">
+	<Marker Name="a bonfire wisp (ELEMENTAL)" X="5658" Y="2418" Icon="CORPSE" Facet="0"/>
+	<Marker Name="a bonfire wisp (ELEMENTAL)" X="5648" Y="2468" Icon="CORPSE" Facet="0"/>
+	<Marker Name="a bonfire wisp (ELEMENTAL)" X="5682" Y="2419" Icon="CORPSE" Facet="0"/>
+</Pack>

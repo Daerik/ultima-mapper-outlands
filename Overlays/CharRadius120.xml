@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Overlay Name="Radius (120 Tiles)">
+  <oval desc="fill" relative="true" fill="true" facet="-2" red="100" green="149" blue="237" alpha="50" centerx="0" centery="0" radius="120"/>
+  <oval desc="outline" relative="true" facet="-2" red="100" green="149" blue="237" alpha="100" centerx="0" centery="0" radius="120" penwidth="2"/>
+</Overlay>

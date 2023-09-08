@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Pack Name="NPC - Armourers" Revision="0">
+	<Marker Name="Shelter Armourer" X="1972" Y="2586" Icon="ARMS" Facet="0"/>
+	<Marker Name="Andaria Armourer" X="2154" Y="600" Icon="ARMS" Facet="0"/>
+	<Marker Name="Andaria Armourer" X="2179" Y="692" Icon="ARMS" Facet="0"/>
+	<Marker Name="Horseshoe Bay Armourer" X="2024" Y="2224" Icon="ARMS" Facet="0"/>
+	<Marker Name="Cambria Armourer" X="1812" Y="2896" Icon="ARMS" Facet="0"/>
+	<Marker Name="Cambria Armourer" X="1926" Y="2986" Icon="ARMS" Facet="0"/>
+</Pack>

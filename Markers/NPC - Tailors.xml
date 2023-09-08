@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Pack Name="NPC - Tailors" Revision="0">
+	<Marker Name="Shelter Tailor" X="1983" Y="2572" Icon="TAILOR" Facet="0"/>
+	<Marker Name="Prevalia Tailor" X="1686" Y="1450" Icon="TAILOR" Facet="0"/>
+	<Marker Name="Cambria Tailor" X="1754" Y="2981" Icon="TAILOR" Facet="0"/>
+	<Marker Name="Cambria Tailor" X="1890" Y="3042" Icon="TAILOR" Facet="0"/>
+	<Marker Name="Andaria Tailor" X="2173" Y="722" Icon="TAILOR" Facet="0"/>
+	<Marker Name="Horseshoe Bay Tailor" X="2010" Y="2178" Icon="TAILOR" Facet="0"/>
+	<Marker Name="Terran Tailor" X="748" Y="1515" Icon="TAILOR" Facet="0"/>
+	<Marker Name="Corpse Creek Tailor" X="869" Y="731" Icon="TAILOR" Facet="0"/>
+	<Marker Name="Corpse Creek Tailor" X="916" Y="690" Icon="TAILOR" Facet="0"/>
+	<Marker Name="Outpost Tailor" X="3048" Y="534" Icon="TAILOR" Facet="0"/>
+</Pack>

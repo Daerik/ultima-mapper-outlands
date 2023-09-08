@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Pack Name="Dungeons - Entrances" Revision="0">
+	<Marker Name="Aegis Keep Boss (Entrance)" X="5958" Y="224" Icon="DUNGEON" Facet="0"/>
+	<Marker Name="Aegis Keep Level 1 (Entrance)" X="2167" Y="2058" Icon="DUNGEON" Facet="0"/>
+	<Marker Name="Aegis Keep Level 2 (Entrance)" X="5970" Y="162" Icon="DUNGEON" Facet="0"/>
+	<Marker Name="Aegis Keep Level 3 (Entrance)" X="5877" Y="238" Icon="DUNGEON" Facet="0"/>
+	<Marker Name="Aegis Keep Mage Room (Entrance)" X="5878" Y="96" Icon="DUNGEON" Facet="0"/>
+	<Marker Name="Cavernam Boss (Entrance)" X="5942" Y="987" Icon="DUNGEON" Facet="0"/>
+	<Marker Name="Cavernam Level 1 (Entrance)" X="2735" Y="369" Icon="DUNGEON" Facet="0"/>
+	<Marker Name="Cavernam Level 2 (Entrance)" X="5897" Y="606" Icon="DUNGEON" Facet="0"/>
+	<Marker Name="Cavernam Level 3 (Entrance)" X="5983" Y="768" Icon="DUNGEON" Facet="0"/>
+	<Marker Name="Darkmire Temple Boss (Entrance)" X="5568" Y="1953" Icon="DUNGEON" Facet="0"/>
+	<Marker Name="Darkmire Temple Level 1 (Entrance)" X="3399" Y="3720" Icon="DUNGEON" Facet="0"/>
+	<Marker Name="Darkmire Temple Level 2 (Entrance)" X="5249" Y="1962" Icon="DUNGEON" Facet="0"/>
+	<Marker Name="Darkmire Temple Level 2 (Entrance)" X="5253" Y="1983" Icon="DUNGEON" Facet="0"/>
+	<Marker Name="Darkmire Temple Level 3 (Entrance)" X="5425" Y="1955" Icon="DUNGEON" Facet="0"/>
+	<Marker Name="Inferno Boss (Entrance)" X="5925" Y="2417" Icon="DUNGEON" Facet="0"/>
+	<Marker Name="Inferno Level 1 (Entrance)" X="1998" Y="3225" Icon="DUNGEON" Facet="0"/>
+	<Marker Name="Inferno Level 2 (Entrance)" X="5884" Y="1992" Icon="DUNGEON" Facet="0"/>
+	<Marker Name="Inferno Mini-Boss (Entrance)" X="5642" Y="2268" Icon="DUNGEON" Facet="0"/>
+	<Marker Name="Mount Petram Boss (Entrance)" X="5762" Y="2756" Icon="DUNGEON" Facet="0"/>
+	<Marker Name="Mount Petram Level 1 (Entrance)" X="734" Y="763" Icon="DUNGEON" Facet="0"/>
+	<Marker Name="Mount Petram Level 2 (Entrance)" X="5515" Y="2778" Icon="DUNGEON" Facet="0"/>
+	<Marker Name="Mount Petram Level 3 (Entrance)" X="5567" Y="2891" Icon="DUNGEON" Facet="0"/>
+	<Marker Name="Nusero Boss (Entrance)" X="6009" Y="1587" Icon="DUNGEON" Facet="0"/>
+	<Marker Name="Nusero Level 1 (Entrance)" X="287" Y="1673" Icon="DUNGEON" Facet="0"/>
+	<Marker Name="Nusero Level 2 (Entrance)" X="5770" Y="1713" Icon="DUNGEON" Facet="0"/>
+	<Marker Name="Nusero Level 3 (Entrance)" X="5940" Y="1500" Icon="DUNGEON" Facet="0"/>
+	<Marker Name="Nusero Mini-Boss (Entrance)" X="5959" Y="1706" Icon="DUNGEON" Facet="0"/>
+	<Marker Name="Ossuary Boss (Entrance)" X="5685" Y="1309" Icon="DUNGEON" Facet="0"/>
+	<Marker Name="Ossuary Level 1 (Entrance)" X="1205" Y="2818" Icon="DUNGEON" Facet="0"/>
+	<Marker Name="Ossuary Level 2 (Entrance)" X="5908" Y="1331" Icon="DUNGEON" Facet="0"/>
+	<Marker Name="Ossuary Level 3 (Entrance)" X="5787" Y="1328" Icon="DUNGEON" Facet="0"/>
+	<Marker Name="Ossuary Mini-Boss (Entrance)" X="5670" Y="1224" Icon="DUNGEON" Facet="0"/>
+	<Marker Name="Ossuary Skeleton Room (Entrance)" X="5801" Y="1285" Icon="DUNGEON" Facet="0"/>
+	<Marker Name="Pulma Boss (Entrance)" X="5473" Y="1268" Icon="DUNGEON" Facet="0"/>
+	<Marker Name="Pulma Level 1 (Entrance)" X="1785" Y="983" Icon="DUNGEON" Facet="0"/>
+	<Marker Name="Pulma Level 2 (Entrance)" X="5210" Y="1250" Icon="DUNGEON" Facet="0"/>
+	<Marker Name="Pulma Level 3 (Entrance)" X="5345" Y="1229" Icon="DUNGEON" Facet="0"/>
+	<Marker Name="Pulma Mini-Boss (Entrance)" X="5434" Y="1283" Icon="STAIRS" Facet="0"/>
+	<Marker Name="The Mausoleum Boss (Entrance)" X="5182" Y="619" Icon="DUNGEON" Facet="0"/>
+	<Marker Name="The Mausoleum Level 1 (Entrance)" X="1456" Y="2229" Icon="DUNGEON" Facet="0"/>
+	<Marker Name="The Mausoleum Level 2 (Entrance)" X="5629" Y="646" Icon="DUNGEON" Facet="0"/>
+	<Marker Name="The Mausoleum Level 3 (Entrance)" X="5522" Y="638" Icon="DUNGEON" Facet="0"/>
+</Pack>

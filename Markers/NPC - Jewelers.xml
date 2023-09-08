@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Pack Name="NPC - Jewelers" Revision="0">
+	<Marker Name="Shelter Jeweler" X="1980" Y="2561" Icon="JEWELER" Facet="0"/>
+	<Marker Name="Prevalia Jeweler" X="1929" Y="1728" Icon="JEWELER" Facet="0"/>
+	<Marker Name="Prevalia Jeweler" X="1872" Y="1649" Icon="JEWELER" Facet="0"/>
+	<Marker Name="Prevalia Jeweler" X="1560" Y="1551" Icon="JEWELER" Facet="0"/>
+	<Marker Name="Cambria Jeweler" X="1765" Y="2980" Icon="JEWELER" Facet="0"/>
+	<Marker Name="Andaria Jeweler" X="2217" Y="641" Icon="JEWELER" Facet="0"/>
+	<Marker Name="Horseshoe Bay Jeweler" X="2028" Y="2252" Icon="JEWELER" Facet="0"/>
+	<Marker Name="Corpse Creek Jeweler" X="928" Y="681" Icon="JEWELER" Facet="0"/>
+</Pack>
