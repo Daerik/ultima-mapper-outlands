@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<Pack Name="Monsters - Wendigo" Revision="0">
-    <Marker Name="a wendigo (MONSTROUS) (tier 18) (450 gp, 1500 hp, 30-40 dmg) (25 ar, 100 mr, 0 pr) (80 wr, 0 mg, 0 ev)" X="6065" Y="1055" Icon="CORPSE" Facet="0"/>
-    <Marker Name="a wendigo (MONSTROUS) (tier 18) (450 gp, 1500 hp, 30-40 dmg) (25 ar, 100 mr, 0 pr) (80 wr, 0 mg, 0 ev)" X="6026" Y="0993" Icon="CORPSE" Facet="0"/>
-    <Marker Name="a wendigo (MONSTROUS) (tier 18) (450 gp, 1500 hp, 30-40 dmg) (25 ar, 100 mr, 0 pr) (80 wr, 0 mg, 0 ev)" X="5977" Y="1001" Icon="CORPSE" Facet="0"/>
-    <Marker Name="a wendigo (MONSTROUS) (tier 18) (450 gp, 1500 hp, 30-40 dmg) (25 ar, 100 mr, 0 pr) (80 wr, 0 mg, 0 ev)" X="5961" Y="0965" Icon="CORPSE" Facet="0"/>
-</Pack>

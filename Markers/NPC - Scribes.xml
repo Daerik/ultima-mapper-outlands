@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Pack Name="NPC - Scribes" Revision="0">
-	<Marker Name="Shelter Scribe" X="1911" Y="2617" Icon="LIBRARY" Facet="0"/>
-	<Marker Name="Prevalia Scribe" X="1719" Y="1460" Icon="LIBRARY" Facet="0"/>
-	<Marker Name="Prevalia Scribe" X="1896" Y="1725" Icon="LIBRARY" Facet="0"/>
-	<Marker Name="Cambria Scribe" X="1694" Y="2892" Icon="LIBRARY" Facet="0"/>
-	<Marker Name="Cambria Scribe" X="1731" Y="2943" Icon="LIBRARY" Facet="0"/>
-	<Marker Name="Andaria Scribe" X="2231" Y="688" Icon="LIBRARY" Facet="0"/>
-	<Marker Name="Andaria Scribe" X="2213" Y="596" Icon="LIBRARY" Facet="0"/>
-	<Marker Name="Horseshoe Bay Scribe" X="1999" Y="2244" Icon="LIBRARY" Facet="0"/>
-	<Marker Name="Terran Scribe" X="750" Y="1494" Icon="LIBRARY" Facet="0"/>
-	<Marker Name="Corpse Creek Scribe" X="883" Y="715" Icon="LIBRARY" Facet="0"/>
-	<Marker Name="Outpost Scribe" X="3037" Y="511" Icon="LIBRARY" Facet="0"/>
+	<Marker Name="Shelter Scribe" X="1911" Y="2617" Icon="SIGN_LIBRARY" Facet="0"/>
+	<Marker Name="Prevalia Scribe" X="1719" Y="1460" Icon="SIGN_LIBRARY" Facet="0"/>
+	<Marker Name="Prevalia Scribe" X="1896" Y="1725" Icon="SIGN_LIBRARY" Facet="0"/>
+	<Marker Name="Cambria Scribe" X="1694" Y="2892" Icon="SIGN_LIBRARY" Facet="0"/>
+	<Marker Name="Cambria Scribe" X="1731" Y="2943" Icon="SIGN_LIBRARY" Facet="0"/>
+	<Marker Name="Andaria Scribe" X="2231" Y="688" Icon="SIGN_LIBRARY" Facet="0"/>
+	<Marker Name="Andaria Scribe" X="2213" Y="596" Icon="SIGN_LIBRARY" Facet="0"/>
+	<Marker Name="Horseshoe Bay Scribe" X="1999" Y="2244" Icon="SIGN_LIBRARY" Facet="0"/>
+	<Marker Name="Terran Scribe" X="750" Y="1494" Icon="SIGN_LIBRARY" Facet="0"/>
+	<Marker Name="Corpse Creek Scribe" X="883" Y="715" Icon="SIGN_LIBRARY" Facet="0"/>
+	<Marker Name="Outpost Scribe" X="3037" Y="511" Icon="SIGN_LIBRARY" Facet="0"/>
 </Pack>

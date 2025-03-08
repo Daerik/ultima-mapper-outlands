@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<Pack Name="Monsters - Drowned Daemon" Revision="0">
-	<Marker Name="a drowned daemon (DAEMONIC) (tier 19) (600 gp, 2000 hp, 30-40 dmg) (50 ar, 100 mr, 0 pr) (110 wr, 100 mg, 100 ev)" X="5472" Y="1277" Icon="CORPSE" Facet="0"/>
-	<Marker Name="a drowned daemon (DAEMONIC) (tier 19) (600 gp, 2000 hp, 30-40 dmg) (50 ar, 100 mr, 0 pr) (110 wr, 100 mg, 100 ev)" X="5477" Y="1284" Icon="CORPSE" Facet="0"/>
-	<Marker Name="a drowned daemon (DAEMONIC) (tier 19) (600 gp, 2000 hp, 30-40 dmg) (50 ar, 100 mr, 0 pr) (110 wr, 100 mg, 100 ev)" X="0988" Y="1107" Icon="CORPSE" Facet="0"/>
-</Pack>

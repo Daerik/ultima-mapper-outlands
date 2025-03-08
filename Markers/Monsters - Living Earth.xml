@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<Pack Name="Monsters - Living Earth" Revision="0">
-    <Marker Name="living earth (ELEMENTAL) (tier 14) (200 gp, 800 hp, 25-35 dmg) (75 ar, 25 mr, 0 pr) (100 wr, 0 mg, 0 ev)" X="5711" Y="2799" Icon="CORPSE" Facet="0"/>
-    <Marker Name="living earth (ELEMENTAL) (tier 14) (200 gp, 800 hp, 25-35 dmg) (75 ar, 25 mr, 0 pr) (100 wr, 0 mg, 0 ev)" X="5684" Y="2830" Icon="CORPSE" Facet="0"/>
-    <Marker Name="living earth (ELEMENTAL) (tier 14) (200 gp, 800 hp, 25-35 dmg) (75 ar, 25 mr, 0 pr) (100 wr, 0 mg, 0 ev)" X="5725" Y="2815" Icon="CORPSE" Facet="0"/>
-</Pack>

@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<Pack Name="Monsters - Fire Minion" Revision="0">
-	<Marker Name="a fire minion (DAEMONIC) (tier 7) (30 gp, 225 hp, 7-14 dmg) (25 ar, 100 mr, 0 pr) (70 wr, 25 mg, 25 ev)" X="5929" Y="1950" Icon="CORPSE" Facet="0"/>
-	<Marker Name="a fire minion (DAEMONIC) (tier 7) (30 gp, 225 hp, 7-14 dmg) (25 ar, 100 mr, 0 pr) (70 wr, 25 mg, 25 ev)" X="5900" Y="2036" Icon="CORPSE" Facet="0"/>
-	<Marker Name="a fire minion (DAEMONIC) (tier 7) (30 gp, 225 hp, 7-14 dmg) (25 ar, 100 mr, 0 pr) (70 wr, 25 mg, 25 ev)" X="5908" Y="1982" Icon="CORPSE" Facet="0"/>
-</Pack>

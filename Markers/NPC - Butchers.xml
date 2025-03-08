@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Pack Name="NPC - Butchers" Revision="0">
-	<Marker Name="Shelter Butcher" X="1992" Y="2612" Icon="BUTCHER" Facet="0"/>
-	<Marker Name="Prevalia Butcher" X="1928" Y="1648" Icon="BUTCHER" Facet="0"/>
-	<Marker Name="Cambria Butcher" X="1718" Y="3022" Icon="BUTCHER" Facet="0"/>
-	<Marker Name="Cambria Butcher" X="1901" Y="3072" Icon="BUTCHER" Facet="0"/>
-	<Marker Name="Andaria Butcher" X="2171" Y="641" Icon="BUTCHER" Facet="0"/>
-	<Marker Name="Horseshoe Bay Butcher" X="2058" Y="2291" Icon="BUTCHER" Facet="0"/>
-	<Marker Name="Terran Butcher" X="792" Y="1531" Icon="BUTCHER" Facet="0"/>
-	<Marker Name="Corpse Creek Butcher" X="876" Y="725" Icon="BUTCHER" Facet="0"/>
+	<Marker Name="Shelter Butcher" X="1992" Y="2612" Icon="SIGN_BUTCHER" Facet="0"/>
+	<Marker Name="Prevalia Butcher" X="1928" Y="1648" Icon="SIGN_BUTCHER" Facet="0"/>
+	<Marker Name="Cambria Butcher" X="1718" Y="3022" Icon="SIGN_BUTCHER" Facet="0"/>
+	<Marker Name="Cambria Butcher" X="1901" Y="3072" Icon="SIGN_BUTCHER" Facet="0"/>
+	<Marker Name="Andaria Butcher" X="2171" Y="641" Icon="SIGN_BUTCHER" Facet="0"/>
+	<Marker Name="Horseshoe Bay Butcher" X="2058" Y="2291" Icon="SIGN_BUTCHER" Facet="0"/>
+	<Marker Name="Terran Butcher" X="792" Y="1531" Icon="SIGN_BUTCHER" Facet="0"/>
+	<Marker Name="Corpse Creek Butcher" X="876" Y="725" Icon="SIGN_BUTCHER" Facet="0"/>
 </Pack>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Pack Name="Towns - Banks" Revision="0">
-	<Marker Name="Shelter Bank" X="1954" Y="2611" Icon="BANK" Facet="0"/>
-	<Marker Name="Prevalia Bank" X="1924" Y="1710" Icon="BANK" Facet="0"/>
-	<Marker Name="Prevalia Bank" X="1605" Y="1507" Icon="BANK" Facet="0"/>
-	<Marker Name="Prevalia Bank" X="1954" Y="2611" Icon="BANK" Facet="0"/>
-	<Marker Name="Prevalia Bank" X="1954" Y="2611" Icon="BANK" Facet="0"/>
-	<Marker Name="Cambria Bank" X="1751" Y="3003" Icon="BANK" Facet="0"/>
-	<Marker Name="Andaria Bank" X="2184" Y="624" Icon="BANK" Facet="0"/>
-	<Marker Name="Horseshoe Bay Bank" X="2025" Y="2241" Icon="BANK" Facet="0"/>
-	<Marker Name="Terran Bank" X="723" Y="1506" Icon="BANK" Facet="0"/>
-	<Marker Name="Corpse Creek Bank" X="898" Y="711" Icon="BANK" Facet="0"/>
-	<Marker Name="Outpost Bank" X="3045" Y="542" Icon="BANK" Facet="0"/>
+	<Marker Name="Anchor's Rest Bank" X="3732" Y="534" Icon="SIGN_BANK" Facet="0"/>
+	<Marker Name="Andaria Bank" X="2188" Y="0628" Icon="SIGN_BANK" Facet="0"/>
+	<Marker Name="Cambria Bank" X="1750" Y="3003" Icon="SIGN_BANK" Facet="0"/>
+	<Marker Name="Corpse Creek Bank" X="0864" Y="0702" Icon="SIGN_BANK" Facet="0"/>
+	<Marker Name="Horseshoe Bay Bank" X="2009" Y="2222" Icon="SIGN_BANK" Facet="0"/>
+	<Marker Name="Outpost Bank" X="3050" Y="0545" Icon="SIGN_BANK" Facet="0"/>
+	<Marker Name="Prevalia Bank" X="1614" Y="1501" Icon="SIGN_BANK" Facet="0"/>
+	<Marker Name="Prevalia Bank" X="1929" Y="1704" Icon="SIGN_BANK" Facet="0"/>
+	<Marker Name="Shelter Island Bank" X="1955" Y="2583" Icon="SIGN_BANK" Facet="0"/>
+	<Marker Name="Terran Bank" X="0726" Y="1508" Icon="SIGN_BANK" Facet="0"/>
+	<Marker Name="Totem Bank" X="3840" Y="2881" Icon="SIGN_BANK" Facet="0"/>
 </Pack>

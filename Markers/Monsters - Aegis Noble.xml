@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<Pack Name="Monsters - Aegis Noble" Revision="0">
-    <Marker Name="an aegis noble (HUMANOID) (tier 9) (50 gp, 350 hp, 15-25 dmg) (50 ar, 25 mr, 0 pr) (90 wr, 0 mg, 0 ev)" X="5863" Y="0300" Icon="CORPSE" Facet="0"/>
-    <Marker Name="an aegis noble (HUMANOID) (tier 9) (50 gp, 350 hp, 15-25 dmg) (50 ar, 25 mr, 0 pr) (90 wr, 0 mg, 0 ev)" X="5874" Y="0270" Icon="CORPSE" Facet="0"/>
-    <Marker Name="an aegis noble (HUMANOID) (tier 9) (50 gp, 350 hp, 15-25 dmg) (50 ar, 25 mr, 0 pr) (90 wr, 0 mg, 0 ev)" X="5898" Y="0229" Icon="CORPSE" Facet="0"/>
-    <Marker Name="an aegis noble (HUMANOID) (tier 9) (50 gp, 350 hp, 15-25 dmg) (50 ar, 25 mr, 0 pr) (90 wr, 0 mg, 0 ev)" X="5887" Y="0239" Icon="CORPSE" Facet="0"/>
-    <Marker Name="an aegis noble (HUMANOID) (tier 9) (50 gp, 350 hp, 15-25 dmg) (50 ar, 25 mr, 0 pr) (90 wr, 0 mg, 0 ev)" X="5879" Y="0310" Icon="CORPSE" Facet="0"/>
-</Pack>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Pack Name="NPC - Fishermen" Revision="0">
-	<Marker Name="Shelter Fisherman" X="1951" Y="2629" Icon="FISHERMANSGUILD" Facet="0"/>
-	<Marker Name="Shelter Fisherman" X="1885" Y="2649" Icon="FISHERMANSGUILD" Facet="0"/>
-	<Marker Name="Andaria Fisherman" X="2151" Y="800" Icon="FISHERMANSGUILD" Facet="0"/>
-	<Marker Name="Horseshoe Bay Fisherman" X="2044" Y="2309" Icon="FISHERMANSGUILD" Facet="0"/>
-	<Marker Name="Horseshoe Bay Fisherman" X="2021" Y="2196" Icon="FISHERMANSGUILD" Facet="0"/>
-	<Marker Name="Cambria Fisherman" X="1877" Y="3016" Icon="FISHERMANSGUILD" Facet="0"/>
-	<Marker Name="Cambria Fisherman" X="1887" Y="3081" Icon="FISHERMANSGUILD" Facet="0"/>
+	<Marker Name="Shelter Fisherman" X="1951" Y="2629" Icon="SIGN_FISHERMANS_GUILD" Facet="0"/>
+	<Marker Name="Shelter Fisherman" X="1885" Y="2649" Icon="SIGN_FISHERMANS_GUILD" Facet="0"/>
+	<Marker Name="Andaria Fisherman" X="2151" Y="800" Icon="SIGN_FISHERMANS_GUILD" Facet="0"/>
+	<Marker Name="Horseshoe Bay Fisherman" X="2044" Y="2309" Icon="SIGN_FISHERMANS_GUILD" Facet="0"/>
+	<Marker Name="Horseshoe Bay Fisherman" X="2021" Y="2196" Icon="SIGN_FISHERMANS_GUILD" Facet="0"/>
+	<Marker Name="Cambria Fisherman" X="1877" Y="3016" Icon="SIGN_FISHERMANS_GUILD" Facet="0"/>
+	<Marker Name="Cambria Fisherman" X="1887" Y="3081" Icon="SIGN_FISHERMANS_GUILD" Facet="0"/>
 </Pack>

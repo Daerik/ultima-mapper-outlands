@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<Pack Name="Monsters - Reanimator Rector" Revision="0">
-    <Marker Name="a reanimator rector (HUMANOID) (tier 11) (100 gp, 500 hp, 10-20 dmg) (25 ar, 100 mr, 0 pr) (85 wr, 75 mg, 75 ev)" X="5349" Y="0640" Icon="CORPSE" Facet="0"/>
-    <Marker Name="a reanimator rector (HUMANOID) (tier 11) (100 gp, 500 hp, 10-20 dmg) (25 ar, 100 mr, 0 pr) (85 wr, 75 mg, 75 ev)" X="5363" Y="0627" Icon="CORPSE" Facet="0"/>
-    <Marker Name="a reanimator rector (HUMANOID) (tier 11) (100 gp, 500 hp, 10-20 dmg) (25 ar, 100 mr, 0 pr) (85 wr, 75 mg, 75 ev)" X="5353" Y="0627" Icon="CORPSE" Facet="0"/>
-</Pack>

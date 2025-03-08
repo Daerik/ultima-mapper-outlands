@@ -42,8 +42,8 @@
 	<Marker Name="Squi-ball" X="6529" Y="3043" Icon="KINGS_FAIRE" Facet="0"/>
 	<Marker Name="Statue Carving" X="6417" Y="3056" Icon="KINGS_FAIRE" Facet="0"/>
 	<Marker Name="Tattoo Parlor" X="6455" Y="3037" Icon="SPARKLES" Facet="0"/>
-	<Marker Name="Teleporter" X="6467" Y="3012" Icon="BLANKSTAIR" Facet="0"/>
-	<Marker Name="Teleporter" X="6506" Y="3161" Icon="BLANKSTAIR" Facet="0"/>
+	<Marker Name="Teleporter" X="6467" Y="3012" Icon="STAIRS" Facet="0"/>
+	<Marker Name="Teleporter" X="6506" Y="3161" Icon="STAIRS" Facet="0"/>
 	<Marker Name="The Wishing Well" X="6417" Y="3032" Icon="SPARKLES" Facet="0"/>
 	<Marker Name="Ticket Booth" X="6465" Y="3024" Icon="SPARKLES" Facet="0"/>
 	<Marker Name="Tomato Justice" X="6511" Y="3005" Icon="KINGS_FAIRE" Facet="0"/>

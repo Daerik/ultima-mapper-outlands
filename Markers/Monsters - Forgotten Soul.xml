@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<Pack Name="Monsters - Forgotten Soul" Revision="0">
-    <Marker Name="a forgotten soul (UNDEAD) (tier 14) (200 gp, 500 hp, 15-25 dmg) (0 ar, 150 mr, 80 pr) (90 wr, 75 mg, 75 ev)" X="1016" Y="3302" Icon="CORPSE" Facet="0"/>
-    <Marker Name="a forgotten soul (UNDEAD) (tier 14) (200 gp, 500 hp, 15-25 dmg) (0 ar, 150 mr, 80 pr) (90 wr, 75 mg, 75 ev)" X="1055" Y="3290" Icon="CORPSE" Facet="0"/>
-    <Marker Name="a forgotten soul (UNDEAD) (tier 14) (200 gp, 500 hp, 15-25 dmg) (0 ar, 150 mr, 80 pr) (90 wr, 75 mg, 75 ev)" X="2228" Y="2970" Icon="CORPSE" Facet="0"/>
-    <Marker Name="a forgotten soul (UNDEAD) (tier 14) (200 gp, 500 hp, 15-25 dmg) (0 ar, 150 mr, 80 pr) (90 wr, 75 mg, 75 ev)" X="2177" Y="2897" Icon="CORPSE" Facet="0"/>
-    <Marker Name="a forgotten soul (UNDEAD) (tier 14) (200 gp, 500 hp, 15-25 dmg) (0 ar, 150 mr, 80 pr) (90 wr, 75 mg, 75 ev)" X="2230" Y="2897" Icon="CORPSE" Facet="0"/>
-    <Marker Name="a forgotten soul (UNDEAD) (tier 14) (200 gp, 500 hp, 15-25 dmg) (0 ar, 150 mr, 80 pr) (90 wr, 75 mg, 75 ev)" X="2157" Y="2828" Icon="CORPSE" Facet="0"/>
-</Pack>

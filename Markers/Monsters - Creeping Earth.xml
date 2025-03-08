@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<Pack Name="Monsters - Creeping Earth" Revision="0">
-	<Marker Name="creeping earth (NATURE) (tier 10) (75 gp, 400 hp, 15-25 dmg) (50 ar, 25 mr, 0 pr) (60 wr, 0 mg, 0 ev)" X="5381" Y="2041" Icon="CORPSE" Facet="0"/>
-	<Marker Name="creeping earth (NATURE) (tier 10) (75 gp, 400 hp, 15-25 dmg) (50 ar, 25 mr, 0 pr) (60 wr, 0 mg, 0 ev)" X="5397" Y="2040" Icon="CORPSE" Facet="0"/>
-	<Marker Name="creeping earth (NATURE) (tier 10) (75 gp, 400 hp, 15-25 dmg) (50 ar, 25 mr, 0 pr) (60 wr, 0 mg, 0 ev)" X="5404" Y="2056" Icon="CORPSE" Facet="0"/>
-	<Marker Name="creeping earth (NATURE) (tier 10) (75 gp, 400 hp, 15-25 dmg) (50 ar, 25 mr, 0 pr) (60 wr, 0 mg, 0 ev)" X="1083" Y="1502" Icon="CORPSE" Facet="0"/>
-	<Marker Name="creeping earth (NATURE) (tier 10) (75 gp, 400 hp, 15-25 dmg) (50 ar, 25 mr, 0 pr) (60 wr, 0 mg, 0 ev)" X="1102" Y="1461" Icon="CORPSE" Facet="0"/>
-</Pack>

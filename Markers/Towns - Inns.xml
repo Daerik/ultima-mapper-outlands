@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Pack Name="Towns - Inns" Revision="0">
-	<Marker Name="Shelter Inn" X="1935" Y="2588" Icon="INN" Facet="0"/>
-	<Marker Name="Prevalia Inn" X="1642" Y="1450" Icon="INN" Facet="0"/>
-	<Marker Name="Prevalia Inn" X="1942" Y="1662" Icon="INN" Facet="0"/>
-	<Marker Name="Prevalia Inn" X="1679" Y="3018" Icon="INN" Facet="0"/>
-	<Marker Name="Cambria Inn" X="1900" Y="3001" Icon="INN" Facet="0"/>
-	<Marker Name="Andaria Inn" X="2158" Y="661" Icon="INN" Facet="0"/>
-	<Marker Name="Horseshoe Bay Inn" X="2025" Y="2307" Icon="INN" Facet="0"/>
-	<Marker Name="Horseshoe Bay Inn" X="2043" Y="2251" Icon="INN" Facet="0"/>
-	<Marker Name="Terran Inn" X="729" Y="1458" Icon="INN" Facet="0"/>
-	<Marker Name="Corpse Creek Inn" X="872" Y="730" Icon="INN" Facet="0"/>
-	<Marker Name="Outpost Inn" X="3052" Y="512" Icon="INN" Facet="0"/>
+	<Marker Name="Anchor's Rest Inn" X="3832" Y="499" Icon="SIGN_INN" Facet="0"/>
+	<Marker Name="Andaria Inn" X="2158" Y="660" Icon="SIGN_INN" Facet="0"/>
+	<Marker Name="Cambria Inn" X="1895" Y="3009" Icon="SIGN_INN" Facet="0"/>
+	<Marker Name="Corpse Creek Inn" X="827" Y="713" Icon="SIGN_INN" Facet="0"/>
+	<Marker Name="Horseshoe Bay Inn" X="1978" Y="2198" Icon="SIGN_INN" Facet="0"/>
+	<Marker Name="Outpost Inn" X="3049" Y="513" Icon="SIGN_INN" Facet="0"/>
+	<Marker Name="Prevalia Inn" X="1640" Y="1451" Icon="SIGN_INN" Facet="0"/>
+	<Marker Name="Prevalia Inn" X="1945" Y="1660" Icon="SIGN_INN" Facet="0"/>
+	<Marker Name="Shelter Inn" X="1935" Y="2588" Icon="SIGN_INN" Facet="0"/>
+	<Marker Name="Terran Inn" X="729" Y="1460" Icon="SIGN_INN" Facet="0"/>
+	<Marker Name="Totem Inn" X="3847" Y="2902" Icon="SIGN_INN" Facet="0"/>
 </Pack>

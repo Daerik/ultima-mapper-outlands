@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<Pack Name="Monsters - Wicked Willow" Revision="0">
-    <Marker Name="a wicked willow (NATURE) (tier 9) (50 gp, 500 hp, 10-20 dmg) (50 ar, 50 mr, 40 pr) (50 wr, 25 mg, 25 ev)" X="5605" Y="2816" Icon="CORPSE" Facet="0"/>
-    <Marker Name="a wicked willow (NATURE) (tier 9) (50 gp, 500 hp, 10-20 dmg) (50 ar, 50 mr, 40 pr) (50 wr, 25 mg, 25 ev)" X="5582" Y="2789" Icon="CORPSE" Facet="0"/>
-    <Marker Name="a wicked willow (NATURE) (tier 9) (50 gp, 500 hp, 10-20 dmg) (50 ar, 50 mr, 40 pr) (50 wr, 25 mg, 25 ev)" X="5550" Y="2815" Icon="CORPSE" Facet="0"/>
-</Pack>

@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<Pack Name="Monsters - Rhinocerus Beetle" Revision="0">
-    <Marker Name="a rhinocerus beetle (BEASTIAL) (tier 19) (600 gp, 3000 hp, 35-45 dmg) (100 ar, 25 mr, 0 pr) (75 wr, 0 mg, 0 ev)" X="5972" Y="1073" Icon="CORPSE" Facet="0"/>
-    <Marker Name="a rhinocerus beetle (BEASTIAL) (tier 19) (600 gp, 3000 hp, 35-45 dmg) (100 ar, 25 mr, 0 pr) (75 wr, 0 mg, 0 ev)" X="6004" Y="1039" Icon="CORPSE" Facet="0"/>
-    <Marker Name="a rhinocerus beetle (BEASTIAL) (tier 19) (600 gp, 3000 hp, 35-45 dmg) (100 ar, 25 mr, 0 pr) (75 wr, 0 mg, 0 ev)" X="6037" Y="1060" Icon="CORPSE" Facet="0"/>
-</Pack>

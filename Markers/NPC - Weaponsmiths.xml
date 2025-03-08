@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Pack Name="NPC - Weaponsmiths" Revision="0">
-<Marker Name="Andaria Weaponsmith " X="2159" Y="589" Icon="BLACKSMITH" Facet="0"/>
-<Marker Name="Andaria Weaponsmith " X="2169" Y="700" Icon="BLACKSMITH" Facet="0"/>
-<Marker Name="Cambria Weaponsmith " X="1809" Y="2886" Icon="BLACKSMITH" Facet="0"/>
-<Marker Name="Cambria Weaponsmith " X="1907" Y="2985" Icon="BLACKSMITH" Facet="0"/>
-<Marker Name="Horseshoe Bay Weaponsmith " X="2016" Y="2226" Icon="BLACKSMITH" Facet="0"/>
-<Marker Name="Shelter Weaponsmith" X="1961" Y="2581" Icon="BLACKSMITH" Facet="0"/>
+	<Marker Name="Andaria Weaponsmith " X="2159" Y="589" Icon="SIGN_WEAPONS_GUILD" Facet="0"/>
+	<Marker Name="Andaria Weaponsmith " X="2169" Y="700" Icon="SIGN_WEAPONS_GUILD" Facet="0"/>
+	<Marker Name="Cambria Weaponsmith " X="1809" Y="2886" Icon="SIGN_WEAPONS_GUILD" Facet="0"/>
+	<Marker Name="Cambria Weaponsmith " X="1907" Y="2985" Icon="SIGN_WEAPONS_GUILD" Facet="0"/>
+	<Marker Name="Horseshoe Bay Weaponsmith " X="2016" Y="2226" Icon="SIGN_WEAPONS_GUILD" Facet="0"/>
+	<Marker Name="Shelter Weaponsmith" X="1961" Y="2581" Icon="SIGN_WEAPONS_GUILD" Facet="0"/>
 </Pack>

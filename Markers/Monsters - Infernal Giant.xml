@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<Pack Name="Monsters - Infernal Giant" Revision="0">
-    <Marker Name="an infernal giant (DAEMONIC) (tier 15) (250 gp, 1000 hp, 25-35 dmg) (25 ar, 25 mr, 0 pr) (80 wr, 0 mg, 0 ev)" X="5671" Y="2327" Icon="CORPSE" Facet="0"/>
-    <Marker Name="an infernal giant (DAEMONIC) (tier 15) (250 gp, 1000 hp, 25-35 dmg) (25 ar, 25 mr, 0 pr) (80 wr, 0 mg, 0 ev)" X="5660" Y="2334" Icon="CORPSE" Facet="0"/>
-    <Marker Name="an infernal giant (DAEMONIC) (tier 15) (250 gp, 1000 hp, 25-35 dmg) (25 ar, 25 mr, 0 pr) (80 wr, 0 mg, 0 ev)" X="5848" Y="2349" Icon="CORPSE" Facet="0"/>
-    <Marker Name="an infernal giant (DAEMONIC) (tier 15) (250 gp, 1000 hp, 25-35 dmg) (25 ar, 25 mr, 0 pr) (80 wr, 0 mg, 0 ev)" X="5900" Y="2330" Icon="CORPSE" Facet="0"/>
-</Pack>

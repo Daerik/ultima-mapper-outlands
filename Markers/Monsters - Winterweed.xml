@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<Pack Name="Monsters - Winterweed" Revision="0">
-	<Marker Name="a winterweed (NATURE) (tier 15) (250 gp, 800 hp, 15-25 dmg) (25 ar, 25 mr, 60 pr) (100 wr, 0 mg, 0 ev)" X="5993" Y="1094" Icon="CORPSE" Facet="0"/>
-	<Marker Name="a winterweed (NATURE) (tier 15) (250 gp, 800 hp, 15-25 dmg) (25 ar, 25 mr, 60 pr) (100 wr, 0 mg, 0 ev)" X="5986" Y="1091" Icon="CORPSE" Facet="0"/>
-	<Marker Name="a winterweed (NATURE) (tier 15) (250 gp, 800 hp, 15-25 dmg) (25 ar, 25 mr, 60 pr) (100 wr, 0 mg, 0 ev)" X="5979" Y="1097" Icon="CORPSE" Facet="0"/>
-</Pack>

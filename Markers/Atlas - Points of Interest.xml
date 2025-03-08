@@ -8,8 +8,8 @@
 	<Marker Name="Andaria Gate" Facet="0" Icon="LANDMARKX" X="1971" Y="928"/>
 	<Marker Name="Andaria Rolling Hills" Facet="0" Icon="LANDMARKX" X="2473" Y="609"/>
 	<Marker Name="Andaria Ruined Tower" Facet="0" Icon="LANDMARKX" X="2380" Y="515"/>
-	<Marker Name="Andaria Ruins" Facet="0" Icon="LANDMARKX" X="2377" Y="625"/>
 	<Marker Name="Andaria Ruins 2" Facet="0" Icon="LANDMARKX" X="1985" Y="454"/>
+	<Marker Name="Andaria Ruins" Facet="0" Icon="LANDMARKX" X="2377" Y="625"/>
 	<Marker Name="Andaria Sacrificial Ruins" Facet="0" Icon="LANDMARKX" X="1961" Y="615"/>
 	<Marker Name="Andarian Scout Camp" Facet="0" Icon="LANDMARKX" X="241" Y="1873"/>
 	<Marker Name="Arachnid's Dominion" Facet="0" Icon="LANDMARKX" X="3836" Y="2736"/>
@@ -18,8 +18,11 @@
 	<Marker Name="Beached Ship" Facet="0" Icon="LANDMARKX" X="1054" Y="2670"/>
 	<Marker Name="Black Market Vendor" Facet="0" Icon="LANDMARKX" X="908" Y="933"/>
 	<Marker Name="Blackthorns Fort" Facet="0" Icon="LANDMARKX" X="2489" Y="1091"/>
+	<Marker Name="Blood Cult Abbey" Facet="0" Icon="LANDMARKX" X="3716" Y="1460"/>
 	<Marker Name="Bludchok Orc Fort" Facet="0" Icon="LANDMARKX" X="1092" Y="1005"/>
 	<Marker Name="Bonfire" Facet="0" Icon="LANDMARKX" X="1980" Y="1026"/>
+	<Marker Name="Botanical Disaster" Facet="0" Icon="LANDMARKX" X="4036" Y="1615"/>
+	<Marker Name="Brigand Blind" Facet="0" Icon="LANDMARKX" X="3542" Y="1013"/>
 	<Marker Name="Brigand Camp 1" Facet="0" Icon="LANDMARKX" X="1466" Y="1255"/>
 	<Marker Name="Brigand Camp 2" Facet="0" Icon="LANDMARKX" X="1586" Y="2709"/>
 	<Marker Name="Brigand Camp 3" Facet="0" Icon="LANDMARKX" X="1413" Y="1377"/>
@@ -31,23 +34,28 @@
 	<Marker Name="Cambria Castle" Facet="0" Icon="LANDMARKX" X="1712" Y="2838"/>
 	<Marker Name="Cambrian Excavation" Facet="0" Icon="LANDMARKX" X="1412" Y="2752"/>
 	<Marker Name="Cambrian Lighthouse" Facet="0" Icon="LANDMARKX" X="2081" Y="3060"/>
+	<Marker Name="Camp Betrayal" Facet="0" Icon="LANDMARKX" X="4101" Y="690"/>
 	<Marker Name="Cathedral and Inn" Facet="0" Icon="LANDMARKX" X="1461" Y="2458"/>
-	<Marker Name="Cathedral St Francis" Facet="0" Icon="LANDMARKX" X="1152" Y="2097"/>
 	<Marker Name="Cathedral St Francis Ruins" Facet="0" Icon="LANDMARKX" X="1240" Y="2055"/>
+	<Marker Name="Cathedral St Francis" Facet="0" Icon="LANDMARKX" X="1152" Y="2097"/>
+	<Marker Name="Cedar Forest" Facet="0" Icon="LANDMARKX" X="3244" Y="583"/>
+	<Marker Name="Cedar Lookout" Facet="0" Icon="LANDMARKX" X="4149" Y="266"/>
 	<Marker Name="Chaos Hill" Facet="0" Icon="LANDMARKX" X="867" Y="550"/>
+	<Marker Name="Chaos Viewpoint" Facet="0" Icon="LANDMARKX" X="3909" Y="1360"/>
 	<Marker Name="Citadel" Facet="0" Icon="LANDMARKX" X="2108" Y="2051"/>
 	<Marker Name="Corpse Creek Lookout" Facet="0" Icon="LANDMARKX" X="790" Y="586"/>
 	<Marker Name="Crescent Bend" Facet="0" Icon="LANDMARKX" X="4174" Y="2848"/>
 	<Marker Name="Daemon Keep" Facet="0" Icon="LANDMARKX" X="1261" Y="1744"/>
+	<Marker Name="Dammed Bog" Facet="0" Icon="LANDMARKX" X="4150" Y="968"/>
 	<Marker Name="Deadman Isle" Facet="0" Icon="LANDMARKX" X="1047" Y="3274"/>
 	<Marker Name="Desert Brew" Facet="0" Icon="LANDMARKX" X="3523" Y="2872"/>
 	<Marker Name="Desert Daemon Altar" Facet="0" Icon="LANDMARKX" X="1307" Y="2841"/>
-	<Marker Name="Deserted Island and Ship" Facet="0" Icon="LANDMARKX" X="3237" Y="3363"/>
 	<Marker Name="Desert Manor" Facet="0" Icon="LANDMARKX" X="1205" Y="2698"/>
 	<Marker Name="Desert Outpost" Facet="0" Icon="LANDMARKX" X="1496" Y="2591"/>
 	<Marker Name="Desert Pyramid Ruins" Facet="0" Icon="LANDMARKX" X="1213" Y="2954"/>
 	<Marker Name="Desert Quarry" Facet="0" Icon="LANDMARKX" X="1350" Y="2803"/>
 	<Marker Name="Desert Ruins" Facet="0" Icon="LANDMARKX" X="1160" Y="2503"/>
+	<Marker Name="Deserted Island and Ship" Facet="0" Icon="LANDMARKX" X="3237" Y="3363"/>
 	<Marker Name="Doomforge" Facet="0" Icon="LANDMARKX" X="3847" Y="3117"/>
 	<Marker Name="Dragon Roost" Facet="0" Icon="LANDMARKX" X="1824" Y="936"/>
 	<Marker Name="Dragoncrest Plateau" Facet="0" Icon="LANDMARKX" X="3500" Y="3521"/>
@@ -64,12 +72,22 @@
 	<Marker Name="Fishkill Basin" Facet="0" Icon="LANDMARKX" X="4103" Y="2325"/>
 	<Marker Name="Flooded Sunstone Temple" Facet="0" Icon="LANDMARKX" X="3370" Y="2928"/>
 	<Marker Name="Forsaken Keep" Facet="0" Icon="LANDMARKX" X="1909" Y="1910"/>
-	<Marker Name="Fury's Caldera" Facet="0" Icon="LANDMARKX" X="3924" Y="2513"/>
+	<Marker Name="Fortune Teller" Facet="0" Icon="LANDMARKX" X="4309" Y="476"/>
+	<Marker Name="Fresh Catch" Facet="0" Icon="LANDMARKX" X="4150" Y="775"/>
 	<Marker Name="Frost Daemon Temple" Facet="0" Icon="LANDMARKX" X="1409" Y="470"/>
+	<Marker Name="Frost Forest" Facet="0" Icon="LANDMARKX" X="3616" Y="383"/>
+	<Marker Name="Frozen Excavation" Facet="0" Icon="LANDMARKX" X="3621" Y="126"/>
+	<Marker Name="Frozen Nests" Facet="0" Icon="LANDMARKX" X="3742" Y="78"/>
+	<Marker Name="Frozen Settlement" Facet="0" Icon="LANDMARKX" X="3610" Y="311"/>
+	<Marker Name="Fury's Caldera" Facet="0" Icon="LANDMARKX" X="3924" Y="2513"/>
 	<Marker Name="Gate Fortress" Facet="0" Icon="LANDMARKX" X="1839" Y="907"/>
 	<Marker Name="Golden Sands Garrison" Facet="0" Icon="LANDMARKX" X="3570" Y="2826"/>
+	<Marker Name="Granite Docks" Facet="0" Icon="LANDMARKX" X="3402" Y="919"/>
+	<Marker Name="Granite Quarry" Facet="0" Icon="LANDMARKX" X="3423" Y="1008"/>
 	<Marker Name="Grasslands" Facet="0" Icon="LANDMARKX" X="1077" Y="2262"/>
+	<Marker Name="Haunted Manor" Facet="0" Icon="LANDMARKX" X="4005" Y="1148"/>
 	<Marker Name="Haven Valley Lodge" Facet="0" Icon="LANDMARKX" X="1296" Y="2519"/>
+	<Marker Name="Heartland Bog" Facet="0" Icon="LANDMARKX" X="3684" Y="871"/>
 	<Marker Name="Hidden Jungle Bridge" Facet="0" Icon="LANDMARKX" X="3615" Y="3291"/>
 	<Marker Name="Hidden Valley" Facet="0" Icon="LANDMARKX" X="1439" Y="2918"/>
 	<Marker Name="Hollow Hills" Facet="0" Icon="LANDMARKX" X="1840" Y="2077"/>
@@ -79,25 +97,35 @@
 	<Marker Name="Hunters Blind 1" Facet="0" Icon="LANDMARKX" X="1262" Y="961"/>
 	<Marker Name="Hunters Blind 2" Facet="0" Icon="LANDMARKX" X="1343" Y="1921"/>
 	<Marker Name="Hunters Cabin" Facet="0" Icon="LANDMARKX" X="2163" Y="2198"/>
+	<Marker Name="Ice Bridge" Facet="0" Icon="LANDMARKX" X="3380" Y="128"/>
+	<Marker Name="Ice Prison" Facet="0" Icon="LANDMARKX" X="3936" Y="213"/>
+	<Marker Name="Illuminated Spring" Facet="0" Icon="LANDMARKX" X="3946" Y="744"/>
 	<Marker Name="Ironsnake Retreat" Facet="0" Icon="LANDMARKX" X="4008" Y="2809"/>
 	<Marker Name="Island Dragon Roost" Facet="0" Icon="LANDMARKX" X="928" Y="2819"/>
 	<Marker Name="Island Spring" Facet="0" Icon="LANDMARKX" X="736" Y="3210"/>
+	<Marker Name="Ivory Citadel" Facet="0" Icon="LANDMARKX" X="4120" Y="93"/>
 	<Marker Name="Jungle Baths" Facet="0" Icon="LANDMARKX" X="2760" Y="3423"/>
 	<Marker Name="Jungle Graveyard" Facet="0" Icon="LANDMARKX" X="4280" Y="2607"/>
 	<Marker Name="Junglethread Crossing" Facet="0" Icon="LANDMARKX" X="4204" Y="2587"/>
 	<Marker Name="Kraul Frontier Excavation Site" Facet="0" Icon="LANDMARKX" X="4088" Y="2679"/>
+	<Marker Name="Kudzu Tower" Facet="0" Icon="LANDMARKX" X="3543" Y="1756"/>
 	<Marker Name="Lair of Eternal Darkness" Facet="0" Icon="LANDMARKX" X="2889" Y="594"/>
 	<Marker Name="Lakeside Retreat" Facet="0" Icon="LANDMARKX" X="4213" Y="2324"/>
 	<Marker Name="Lavender Island" Facet="0" Icon="LANDMARKX" X="3530" Y="3407"/>
+	<Marker Name="Leodcyning's Burial Mound" Facet="0" Icon="LANDMARKX" X="3719" Y="422"/>
 	<Marker Name="Leviathan's Rest" Facet="0" Icon="LANDMARKX" X="3789" Y="2767"/>
+	<Marker Name="Lightning Strike" Facet="0" Icon="LANDMARKX" X="3373" Y="536"/>
+	<Marker Name="Lily Bridge" Facet="0" Icon="LANDMARKX" X="3907" Y="347"/>
 	<Marker Name="Lizardmen Fort" Facet="0" Icon="LANDMARKX" X="1362" Y="2106"/>
 	<Marker Name="Lizardmen Scout Camp" Facet="0" Icon="LANDMARKX" X="2231" Y="2619"/>
 	<Marker Name="Loggers Cabin" Facet="0" Icon="LANDMARKX" X="1141" Y="2284"/>
 	<Marker Name="Logging Camp" Facet="0" Icon="LANDMARKX" X="1974" Y="826"/>
 	<Marker Name="Mana Isles" Facet="0" Icon="LANDMARKX" X="3523" Y="3319"/>
+	<Marker Name="Mellow Retreat" Facet="0" Icon="LANDMARKX" X="4333" Y="1119"/>
 	<Marker Name="Midlands Ruins 1" Facet="0" Icon="LANDMARKX" X="1731" Y="1885"/>
 	<Marker Name="Midlands Ruins 2" Facet="0" Icon="LANDMARKX" X="1334" Y="1809"/>
 	<Marker Name="Morthuna" Facet="0" Icon="LANDMARKX" X="988" Y="1728"/>
+	<Marker Name="Mount Minotaur" Facet="0" Icon="LANDMARKX" X="3910" Y="1551"/>
 	<Marker Name="Mountain Meeting Spot" Facet="0" Icon="LANDMARKX" X="1343" Y="2039"/>
 	<Marker Name="Murkmire Swamps" Facet="0" Icon="LANDMARKX" X="4184" Y="3077"/>
 	<Marker Name="Necromancers Cathedral" Facet="0" Icon="LANDMARKX" X="473" Y="866"/>
@@ -113,22 +141,26 @@
 	<Marker Name="Old Jhelom Pits" Facet="0" Icon="LANDMARKX" X="4389" Y="2611"/>
 	<Marker Name="Old Jhelom Settlement" Facet="0" Icon="LANDMARKX" X="4373" Y="2688"/>
 	<Marker Name="Old Jhelom South Gate" Facet="0" Icon="LANDMARKX" X="4370" Y="2738"/>
-	<Marker Name="Old Papua" Facet="0" Icon="LANDMARKX" X="3694" Y="3009"/>
 	<Marker Name="Old Papua Inn" Facet="0" Icon="LANDMARKX" X="3740" Y="2978"/>
+	<Marker Name="Old Papua" Facet="0" Icon="LANDMARKX" X="3694" Y="3009"/>
 	<Marker Name="Orange Island" Facet="0" Icon="LANDMARKX" X="3738" Y="3405"/>
 	<Marker Name="Orc Fort 1" Facet="0" Icon="LANDMARKX" X="1355" Y="1790"/>
 	<Marker Name="Orc Fort 2" Facet="0" Icon="LANDMARKX" X="1921" Y="1194"/>
 	<Marker Name="Orc Fort 3" Facet="0" Icon="LANDMARKX" X="804" Y="1768"/>
+	<Marker Name="Orc Rock" Facet="0" Icon="LANDMARKX" X="4018" Y="1855"/>
+	<Marker Name="Outpost East Gate" Facet="0" Icon="LANDMARKX" X="3161" Y="480"/>
 	<Marker Name="Owens Cabin" Facet="0" Icon="LANDMARKX" X="2164" Y="1153"/>
 	<Marker Name="Palmshade Trading Camp" Facet="0" Icon="LANDMARKX" X="3795" Y="3466"/>
-	<Marker Name="Papua Underdepths" Facet="0" Icon="LANDMARKX" X="3689" Y="3094"/>
 	<Marker Name="Papua Underdepths Entrance" Facet="0" Icon="LANDMARKX" X="3721" Y="3090"/>
+	<Marker Name="Papua Underdepths" Facet="0" Icon="LANDMARKX" X="3689" Y="3094"/>
+	<Marker Name="Picnic Blanket" Facet="0" Icon="LANDMARKX" X="4264" Y="939"/>
+	<Marker Name="Pinecone Grove" Facet="0" Icon="LANDMARKX" X="3685" Y="1225"/>
 	<Marker Name="Ponderosa Perch" Facet="0" Icon="LANDMARKX" X="3435" Y="3157"/>
 	<Marker Name="Pool Of Power" Facet="0" Icon="LANDMARKX" X="984" Y="1149"/>
 	<Marker Name="Prevalia Bog" Facet="0" Icon="LANDMARKX" X="1455" Y="1696"/>
 	<Marker Name="Prevalia Castle" Facet="0" Icon="LANDMARKX" X="1759" Y="1448"/>
-	<Marker Name="Prevalia Cemetery" Facet="0" Icon="LANDMARKX" X="1918" Y="1763"/>
 	<Marker Name="Prevalia Cemetery Crypt" Facet="0" Icon="LANDMARKX" X="1895" Y="1788"/>
+	<Marker Name="Prevalia Cemetery" Facet="0" Icon="LANDMARKX" X="1918" Y="1763"/>
 	<Marker Name="Prevalia Dam" Facet="0" Icon="LANDMARKX" X="1232" Y="1529"/>
 	<Marker Name="Prevalia Gate" Facet="0" Icon="LANDMARKX" X="1232" Y="2370"/>
 	<Marker Name="Prevalia Keep" Facet="0" Icon="LANDMARKX" X="1367" Y="1295"/>
@@ -138,6 +170,7 @@
 	<Marker Name="Prevalia Waterfall" Facet="0" Icon="LANDMARKX" X="1788" Y="1041"/>
 	<Marker Name="Prevalia Zoo" Facet="0" Icon="LANDMARKX" X="1820" Y="1519"/>
 	<Marker Name="Respite Spring" Facet="0" Icon="LANDMARKX" X="3695" Y="2794"/>
+	<Marker Name="Rickety Bridge" Facet="0" Icon="LANDMARKX" X="4187" Y="783"/>
 	<Marker Name="Riverrun Lodge" Facet="0" Icon="LANDMARKX" X="2800" Y="557"/>
 	<Marker Name="Rope Swing Point" Facet="0" Icon="LANDMARKX" X="3960" Y="3632"/>
 	<Marker Name="Ruined Cabin" Facet="0" Icon="LANDMARKX" X="2289" Y="1070"/>
@@ -163,10 +196,12 @@
 	<Marker Name="Savage Fort" Facet="0" Icon="LANDMARKX" X="2358" Y="3097"/>
 	<Marker Name="Savannah and Watering Hole" Facet="0" Icon="LANDMARKX" X="1289" Y="2906"/>
 	<Marker Name="Scorchborne Wastes" Facet="0" Icon="LANDMARKX" X="4165" Y="2777"/>
+	<Marker Name="Secret Beach" Facet="0" Icon="LANDMARKX" X="3606" Y="673"/>
 	<Marker Name="Serpent's Coil Campsite" Facet="0" Icon="LANDMARKX" X="3999" Y="2691"/>
-	<Marker Name="Shattered Nujel'm" Facet="0" Icon="LANDMARKX" X="3123" Y="3078"/>
+	<Marker Name="Shanty Shack" Facet="0" Icon="LANDMARKX" X="3763" Y="1716"/>
 	<Marker Name="Shattered Nujel'm Cemetery" Facet="0" Icon="LANDMARKX" X="2972" Y="3017"/>
 	<Marker Name="Shattered Nujel'm Chessboard" Facet="0" Icon="LANDMARKX" X="3174" Y="3235"/>
+	<Marker Name="Shattered Nujel'm" Facet="0" Icon="LANDMARKX" X="3123" Y="3078"/>
 	<Marker Name="Ship in Bay" Facet="0" Icon="LANDMARKX" X="2330" Y="3318"/>
 	<Marker Name="Ship in Cave" Facet="0" Icon="LANDMARKX" X="2304" Y="1277"/>
 	<Marker Name="Shipwreck" Facet="0" Icon="LANDMARKX" X="2057" Y="1804"/>
@@ -174,9 +209,13 @@
 	<Marker Name="Signal Fort 2" Facet="0" Icon="LANDMARKX" X="1469" Y="1987"/>
 	<Marker Name="Simple Palisade Fort" Facet="0" Icon="LANDMARKX" X="1144" Y="742"/>
 	<Marker Name="Skyward Sanctum" Facet="0" Icon="LANDMARKX" X="3480" Y="3586"/>
+	<Marker Name="Smoking Pyre" Facet="0" Icon="LANDMARKX" X="3226" Y="228"/>
 	<Marker Name="Smugglers Den" Facet="0" Icon="LANDMARKX" X="1150" Y="1006"/>
+	<Marker Name="Smugglers Dock" Facet="0" Icon="LANDMARKX" X="3171" Y="307"/>
 	<Marker Name="Snow Caves" Facet="0" Icon="LANDMARKX" X="1637" Y="613"/>
 	<Marker Name="Snow Fortress" Facet="0" Icon="LANDMARKX" X="1212" Y="441"/>
+	<Marker Name="Southreach Inn" Facet="0" Icon="LANDMARKX" X="4030" Y="1364"/>
+	<Marker Name="Standing Stones" Facet="0" Icon="LANDMARKX" X="4134" Y="1321"/>
 	<Marker Name="Swamp Point Ruins" Facet="0" Icon="LANDMARKX" X="992" Y="2047"/>
 	<Marker Name="Tanners Northern Fort" Facet="0" Icon="LANDMARKX" X="2632" Y="428"/>
 	<Marker Name="Tarsands Altar" Facet="0" Icon="LANDMARKX" X="3820" Y="2601"/>
@@ -191,66 +230,24 @@
 	<Marker Name="Totem Camp" Facet="0" Icon="LANDMARKX" X="3918" Y="2910"/>
 	<Marker Name="Tribal Camp" Facet="0" Icon="LANDMARKX" X="3121" Y="3442"/>
 	<Marker Name="Umbermare Fort" Facet="0" Icon="LANDMARKX" X="1021" Y="2234"/>
+	<Marker Name="Unmarked Grave" Facet="0" Icon="LANDMARKX" X="3320" Y="685"/>
 	<Marker Name="Verdantia Falls Lower Bridge" Facet="0" Icon="LANDMARKX" X="3988" Y="2634"/>
 	<Marker Name="Verdantia Falls Upper Bridge" Facet="0" Icon="LANDMARKX" X="3969" Y="2584"/>
 	<Marker Name="Verdantia Orc Fort" Facet="0" Icon="LANDMARKX" X="3924" Y="3151"/>
 	<Marker Name="Vine-Covered Cave" Facet="0" Icon="LANDMARKX" X="832" Y="1056"/>
 	<Marker Name="Volcano 1" Facet="0" Icon="LANDMARKX" X="2065" Y="3233"/>
 	<Marker Name="Volcano 2" Facet="0" Icon="LANDMARKX" X="841" Y="3183"/>
-	<Marker Name="Western Ruins" Facet="0" Icon="LANDMARKX" X="617" Y="1260"/>
+	<Marker Name="Vurte Tul Rru" Facet="0" Icon="LANDMARKX" X="3883" Y="1032"/>
+	<Marker Name="Western Camps" Facet="0" Icon="LANDMARKX" X="3452" Y="1444"/>
 	<Marker Name="Western Ruins Brigands 1" Facet="0" Icon="LANDMARKX" X="1213" Y="1252"/>
 	<Marker Name="Western Ruins Brigands 2" Facet="0" Icon="LANDMARKX" X="1186" Y="1351"/>
 	<Marker Name="Western Ruins Brigands 3" Facet="0" Icon="LANDMARKX" X="1084" Y="1337"/>
+	<Marker Name="Western Ruins" Facet="0" Icon="LANDMARKX" X="617" Y="1260"/>
 	<Marker Name="Whisperwood Cottage" Facet="0" Icon="LANDMARKX" X="4102" Y="3007"/>
 	<Marker Name="Wildflower Highlands" Facet="0" Icon="LANDMARKX" X="4140" Y="3154"/>
 	<Marker Name="Windmill Waters Wagonworks" Facet="0" Icon="LANDMARKX" X="3763" Y="2873"/>
-	<Marker Name="Zebra Falls" Facet="0" Icon="LANDMARKX" X="992" Y="1380"/>
-
-
-	<Marker Name="Abandoned Trading Post" Facet="0" Icon="LANDMARKX" X="3940" Y="1146"/>
-	<Marker Name="Blood Cult Abbey" Facet="0" Icon="LANDMARKX" X="3716" Y="1460"/>
-	<Marker Name="Botanical Disaster" Facet="0" Icon="LANDMARKX" X="4036" Y="1615"/>
-	<Marker Name="Brigand Blind" Facet="0" Icon="LANDMARKX" X="3542" Y="1013"/>
-	<Marker Name="Camp Betrayal" Facet="0" Icon="LANDMARKX" X="4101" Y="690"/>
-	<Marker Name="Cedar Forest" Facet="0" Icon="LANDMARKX" X="3244" Y="583"/>
-	<Marker Name="Cedar Lookout" Facet="0" Icon="LANDMARKX" X="4149" Y="266"/>
-	<Marker Name="Chaos Viewpoint" Facet="0" Icon="LANDMARKX" X="3909" Y="1360"/>
-	<Marker Name="Dammed Bog" Facet="0" Icon="LANDMARKX" X="4150" Y="968"/>
-	<Marker Name="Haunted Manor" Facet="0" Icon="LANDMARKX" X="4005" Y="1148"/>
-	<Marker Name="Fortune Teller" Facet="0" Icon="LANDMARKX" X="4309" Y="476"/>
-	<Marker Name="Fresh Catch" Facet="0" Icon="LANDMARKX" X="4150" Y="775"/>
-	<Marker Name="Frost Forest" Facet="0" Icon="LANDMARKX" X="3616" Y="383"/>
-	<Marker Name="Frozen Excavation" Facet="0" Icon="LANDMARKX" X="3621" Y="126"/>
-	<Marker Name="Frozen Nests" Facet="0" Icon="LANDMARKX" X="3742" Y="78"/>
-	<Marker Name="Frozen Settlement" Facet="0" Icon="LANDMARKX" X="3610" Y="311"/>
-	<Marker Name="Granite Docks" Facet="0" Icon="LANDMARKX" X="3402" Y="919"/>
-	<Marker Name="Granite Quarry" Facet="0" Icon="LANDMARKX" X="3423" Y="1008"/>
-	<Marker Name="Heartland Bog" Facet="0" Icon="LANDMARKX" X="3684" Y="871"/>
-	<Marker Name="Ice Bridge" Facet="0" Icon="LANDMARKX" X="3380" Y="128"/>
-	<Marker Name="Ice Prison" Facet="0" Icon="LANDMARKX" X="3936" Y="213"/>
-	<Marker Name="Illuminated Spring" Facet="0" Icon="LANDMARKX" X="3946" Y="744"/>
-	<Marker Name="Ivory Citadel" Facet="0" Icon="LANDMARKX" X="4120" Y="93"/>
-	<Marker Name="Kudzu Tower" Facet="0" Icon="LANDMARKX" X="3543" Y="1756"/>
-	<Marker Name="Leodcyning's Burial Mound" Facet="0" Icon="LANDMARKX" X="3719" Y="422"/>
-	<Marker Name="Lightning Strike" Facet="0" Icon="LANDMARKX" X="3373" Y="536"/>
-	<Marker Name="Lily Bridge" Facet="0" Icon="LANDMARKX" X="3907" Y="347"/>
-	<Marker Name="Mellow Retreat" Facet="0" Icon="LANDMARKX" X="4333" Y="1119"/>
-	<Marker Name="Mount Minotaur" Facet="0" Icon="LANDMARKX" X="3910" Y="1551"/>
-	<Marker Name="Orc Rock" Facet="0" Icon="LANDMARKX" X="4018" Y="1855"/>
-	<Marker Name="Outpost East Gate" Facet="0" Icon="LANDMARKX" X="3161" Y="480"/>
-	<Marker Name="Picnic Blanket" Facet="0" Icon="LANDMARKX" X="4264" Y="939"/>
-	<Marker Name="Pinecone Grove" Facet="0" Icon="LANDMARKX" X="3685" Y="1225"/>
-	<Marker Name="Rickety Bridge" Facet="0" Icon="LANDMARKX" X="4187" Y="783"/>
-	<Marker Name="Secret Beach" Facet="0" Icon="LANDMARKX" X="3606" Y="673"/>
-	<Marker Name="Shanty Shack" Facet="0" Icon="LANDMARKX" X="3763" Y="1716"/>
-	<Marker Name="Smoking Pyre" Facet="0" Icon="LANDMARKX" X="3226" Y="228"/>
-	<Marker Name="Smugglers Dock" Facet="0" Icon="LANDMARKX" X="3171" Y="307"/>
-	<Marker Name="Southreach Inn" Facet="0" Icon="LANDMARKX" X="4030" Y="1364"/>
-	<Marker Name="Standing Stones" Facet="0" Icon="LANDMARKX" X="4134" Y="1321"/>
-	<Marker Name="Unmarked Grave" Facet="0" Icon="LANDMARKX" X="3320" Y="685"/>
-	<Marker Name="Vurte Tul Rru" Facet="0" Icon="LANDMARKX" X="3883" Y="1032"/>
-	<Marker Name="Western Camps" Facet="0" Icon="LANDMARKX" X="3452" Y="1444"/>
 	<Marker Name="Winter Harbor" Facet="0" Icon="LANDMARKX" X="4294" Y="129"/>
 	<Marker Name="Winterspire" Facet="0" Icon="LANDMARKX" X="3534" Y="143"/>
 	<Marker Name="Wintertop" Facet="0" Icon="LANDMARKX" X="3535" Y="526"/>
+	<Marker Name="Zebra Falls" Facet="0" Icon="LANDMARKX" X="992" Y="1380"/>
 </Pack>
