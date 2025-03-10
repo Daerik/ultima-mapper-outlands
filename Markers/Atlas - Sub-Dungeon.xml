@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Pack Name="Atlas - Sub-Dungeon" Revision="0">
-	<Marker Name="Forsaken Keep" Facet="0" Icon="DUNGEON" X="1901" Y="1910"/>
-	<Marker Name="Ratman Hovel" Facet="0" Icon="DUNGEON" X="1298" Y="1421"/>
-	<Marker Name="Undermountain" Facet="0" Icon="DUNGEON" X="1816" Y="669"/>
-	<Marker Name="Urukton Bluffs" Facet="0" Icon="DUNGEON" X="1914" Y="1137"/>
+	<Marker Name="Forsaken Keep" Facet="0" X="1901" Y="1910" Icon="MAP_DUNGEON"/>
+	<Marker Name="Ratman Hovel" Facet="0" X="1298" Y="1421" Icon="MAP_DUNGEON"/>
+	<Marker Name="Undermountain" Facet="0" X="1816" Y="669" Icon="MAP_DUNGEON"/>
+	<Marker Name="Urukton Bluffs" Facet="0" X="1914" Y="1137" Icon="MAP_DUNGEON"/>
 </Pack>

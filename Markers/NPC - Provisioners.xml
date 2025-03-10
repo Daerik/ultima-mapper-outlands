@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Pack Name="NPC - Provisioners" Revision="0">
-	<Marker Name="Shelter Provisioner" X="1975" Y="2567" Icon="SIGN_PROVISIONER" Facet="0"/>
-	<Marker Name="Prevalia Provisioner" X="1621" Y="1552" Icon="SIGN_PROVISIONER" Facet="0"/>
-	<Marker Name="Prevalia Provisioner" X="1849" Y="1681" Icon="SIGN_PROVISIONER" Facet="0"/>
-	<Marker Name="Prevalia Provisioner" X="1645" Y="1617" Icon="SIGN_PROVISIONER" Facet="0"/>
-	<Marker Name="Prevalia Provisioner" X="1843" Y="1658" Icon="SIGN_PROVISIONER" Facet="0"/>
-	<Marker Name="Cambria Provisioner" X="1672" Y="2917" Icon="SIGN_PROVISIONER" Facet="0"/>
-	<Marker Name="Cambria Provisioner" X="1890" Y="3056" Icon="SIGN_PROVISIONER" Facet="0"/>
-	<Marker Name="Cambria Provisioner" X="1858" Y="3093" Icon="SIGN_PROVISIONER" Facet="0"/>
-	<Marker Name="Andaria Provisioner" X="2212" Y="794" Icon="SIGN_PROVISIONER" Facet="0"/>
-	<Marker Name="Andaria Provisioner" X="2214" Y="764" Icon="SIGN_PROVISIONER" Facet="0"/>
-	<Marker Name="Horseshoe Bay Provisioner" X="2017" Y="2210" Icon="SIGN_PROVISIONER" Facet="0"/>
-	<Marker Name="Terran Provisioner" X="679" Y="1515" Icon="SIGN_PROVISIONER" Facet="0"/>
-	<Marker Name="Corpse Creek Provisioner" X="870" Y="723" Icon="SIGN_PROVISIONER" Facet="0"/>
-	<Marker Name="Outpost Provisioner" X="3050" Y="531" Icon="SIGN_PROVISIONER" Facet="0"/>
+	<Marker Name="Shelter Provisioner" Facet="0" X="1975" Y="2567" Icon="SIGN_PROVISIONER"/>
+	<Marker Name="Prevalia Provisioner" Facet="0" X="1621" Y="1552" Icon="SIGN_PROVISIONER"/>
+	<Marker Name="Prevalia Provisioner" Facet="0" X="1849" Y="1681" Icon="SIGN_PROVISIONER"/>
+	<Marker Name="Prevalia Provisioner" Facet="0" X="1645" Y="1617" Icon="SIGN_PROVISIONER"/>
+	<Marker Name="Prevalia Provisioner" Facet="0" X="1843" Y="1658" Icon="SIGN_PROVISIONER"/>
+	<Marker Name="Cambria Provisioner" Facet="0" X="1672" Y="2917" Icon="SIGN_PROVISIONER"/>
+	<Marker Name="Cambria Provisioner" Facet="0" X="1890" Y="3056" Icon="SIGN_PROVISIONER"/>
+	<Marker Name="Cambria Provisioner" Facet="0" X="1858" Y="3093" Icon="SIGN_PROVISIONER"/>
+	<Marker Name="Andaria Provisioner" Facet="0" X="2212" Y="794" Icon="SIGN_PROVISIONER"/>
+	<Marker Name="Andaria Provisioner" Facet="0" X="2214" Y="764" Icon="SIGN_PROVISIONER"/>
+	<Marker Name="Horseshoe Bay Provisioner" Facet="0" X="2017" Y="2210" Icon="SIGN_PROVISIONER"/>
+	<Marker Name="Terran Provisioner" Facet="0" X="679" Y="1515" Icon="SIGN_PROVISIONER"/>
+	<Marker Name="Corpse Creek Provisioner" Facet="0" X="870" Y="723" Icon="SIGN_PROVISIONER"/>
+	<Marker Name="Outpost Provisioner" Facet="0" X="3050" Y="531" Icon="SIGN_PROVISIONER"/>
 </Pack>

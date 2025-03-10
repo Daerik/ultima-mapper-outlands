@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Pack Name="NPC - Carpenters" Revision="0">
-	<Marker Name="Shelter Carpenter" X="1979" Y="2606" Icon="SIGN_CARPENTER" Facet="0"/>
-	<Marker Name="Prevalia Carpenter" X="1578" Y="1556" Icon="SIGN_CARPENTER" Facet="0"/>
-	<Marker Name="Prevalia Carpenter" X="1846" Y="1730" Icon="SIGN_CARPENTER" Facet="0"/>
-	<Marker Name="Cambria Carpenter" X="1801" Y="2969" Icon="SIGN_CARPENTER" Facet="0"/>
-	<Marker Name="Cambria Carpenter" X="1852" Y="3049" Icon="SIGN_CARPENTER" Facet="0"/>
-	<Marker Name="Cambria Carpenter" X="1852" Y="3049" Icon="SIGN_CARPENTER" Facet="0"/>
-	<Marker Name="Andaria Carpenter" X="2231" Y="712" Icon="SIGN_CARPENTER" Facet="0"/>
-	<Marker Name="Andaria Carpenter" X="2187" Y="765" Icon="SIGN_CARPENTER" Facet="0"/>
-	<Marker Name="Horseshoe Bay Carpenter" X="2003" Y="2180" Icon="SIGN_CARPENTER" Facet="0"/>
-	<Marker Name="Terran Carpenter" X="677" Y="1484" Icon="SIGN_CARPENTER" Facet="0"/>
-	<Marker Name="Corpse Creek Carpenter" X="880" Y="691" Icon="SIGN_CARPENTER" Facet="0"/>
-	<Marker Name="Outpost Carpenter" X="3061" Y="513" Icon="SIGN_CARPENTER" Facet="0"/>
+	<Marker Name="Shelter Carpenter" Facet="0" X="1979" Y="2606" Icon="SIGN_CARPENTER"/>
+	<Marker Name="Prevalia Carpenter" Facet="0" X="1578" Y="1556" Icon="SIGN_CARPENTER"/>
+	<Marker Name="Prevalia Carpenter" Facet="0" X="1846" Y="1730" Icon="SIGN_CARPENTER"/>
+	<Marker Name="Cambria Carpenter" Facet="0" X="1801" Y="2969" Icon="SIGN_CARPENTER"/>
+	<Marker Name="Cambria Carpenter" Facet="0" X="1852" Y="3049" Icon="SIGN_CARPENTER"/>
+	<Marker Name="Cambria Carpenter" Facet="0" X="1852" Y="3049" Icon="SIGN_CARPENTER"/>
+	<Marker Name="Andaria Carpenter" Facet="0" X="2231" Y="712" Icon="SIGN_CARPENTER"/>
+	<Marker Name="Andaria Carpenter" Facet="0" X="2187" Y="765" Icon="SIGN_CARPENTER"/>
+	<Marker Name="Horseshoe Bay Carpenter" Facet="0" X="2003" Y="2180" Icon="SIGN_CARPENTER"/>
+	<Marker Name="Terran Carpenter" Facet="0" X="677" Y="1484" Icon="SIGN_CARPENTER"/>
+	<Marker Name="Corpse Creek Carpenter" Facet="0" X="880" Y="691" Icon="SIGN_CARPENTER"/>
+	<Marker Name="Outpost Carpenter" Facet="0" X="3061" Y="513" Icon="SIGN_CARPENTER"/>
 </Pack>

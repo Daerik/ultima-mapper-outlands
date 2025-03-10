@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Pack Name="NPC - Mages" Revision="0">
-	<Marker Name="Andaria Mage" X="1916" Y="2611" Icon="SIGN_MAGE" Facet="0"/>
-	<Marker Name="Andaria Mage" X="2208" Y="603" Icon="SIGN_MAGE" Facet="0"/>
-	<Marker Name="Andaria Mage" X="2234" Y="686" Icon="SIGN_MAGE" Facet="0"/>
-	<Marker Name="Cambria Mage" X="1695" Y="2905" Icon="SIGN_MAGE" Facet="0"/>
-	<Marker Name="Cambria Mage" X="1759" Y="2981" Icon="SIGN_MAGE" Facet="0"/>
-	<Marker Name="Corpse Creek Mage" X="883" Y="713" Icon="SIGN_MAGE" Facet="0"/>
-	<Marker Name="Horseshoe Bay Mage" X="1999" Y="2250" Icon="SIGN_MAGE" Facet="0"/>
-	<Marker Name="Outpost Mage" X="3032" Y="514" Icon="SIGN_MAGE" Facet="0"/>
-	<Marker Name="Prevalia Mage" X="1725" Y="1432" Icon="SIGN_MAGE" Facet="0"/>
-	<Marker Name="Prevalia Mage" X="1878" Y="1731" Icon="SIGN_MAGE" Facet="0"/>
-	<Marker Name="Shelter Mage" X="1919" Y="2617" Icon="SIGN_MAGE" Facet="0"/>
-	<Marker Name="Terran Mage" X="755" Y="1495" Icon="SIGN_MAGE" Facet="0"/>
+	<Marker Name="Andaria Mage" Facet="0" X="1916" Y="2611" Icon="SIGN_MAGE"/>
+	<Marker Name="Andaria Mage" Facet="0" X="2208" Y="603" Icon="SIGN_MAGE"/>
+	<Marker Name="Andaria Mage" Facet="0" X="2234" Y="686" Icon="SIGN_MAGE"/>
+	<Marker Name="Cambria Mage" Facet="0" X="1695" Y="2905" Icon="SIGN_MAGE"/>
+	<Marker Name="Cambria Mage" Facet="0" X="1759" Y="2981" Icon="SIGN_MAGE"/>
+	<Marker Name="Corpse Creek Mage" Facet="0" X="883" Y="713" Icon="SIGN_MAGE"/>
+	<Marker Name="Horseshoe Bay Mage" Facet="0" X="1999" Y="2250" Icon="SIGN_MAGE"/>
+	<Marker Name="Outpost Mage" Facet="0" X="3032" Y="514" Icon="SIGN_MAGE"/>
+	<Marker Name="Prevalia Mage" Facet="0" X="1725" Y="1432" Icon="SIGN_MAGE"/>
+	<Marker Name="Prevalia Mage" Facet="0" X="1878" Y="1731" Icon="SIGN_MAGE"/>
+	<Marker Name="Shelter Mage" Facet="0" X="1919" Y="2617" Icon="SIGN_MAGE"/>
+	<Marker Name="Terran Mage" Facet="0" X="755" Y="1495" Icon="SIGN_MAGE"/>
 </Pack>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Pack Name="NPC - Architects" Revision="0">
-	<Marker Name="Andaria Architect" X="2209" Y="719" Icon="SIGN_ARCHITECT" Facet="0"/>
-	<Marker Name="Horseshoe Bay Architect" X="2013" Y="2236" Icon="SIGN_ARCHITECT" Facet="0"/>
-	<Marker Name="Cambria Architect" X="1772" Y="3015" Icon="SIGN_ARCHITECT" Facet="0"/>
+	<Marker Name="Andaria Architect" Facet="0" X="2209" Y="719" Icon="SIGN_ARCHITECT"/>
+	<Marker Name="Horseshoe Bay Architect" Facet="0" X="2013" Y="2236" Icon="SIGN_ARCHITECT"/>
+	<Marker Name="Cambria Architect" Facet="0" X="1772" Y="3015" Icon="SIGN_ARCHITECT"/>
 </Pack>

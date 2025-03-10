@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Pack Name="Atlas - Townships" Revision="0">
-	<Marker Name="Anchor's Rest" Facet="0" Icon="TOWNX" X="3754" Y="539"/>
-	<Marker Name="Andaria" Facet="0" Icon="TOWNX" X="2188" Y="659"/>
-	<Marker Name="Cambria" Facet="0" Icon="TOWNX" X="1765" Y="2995"/>
-	<Marker Name="Corpse Creek" Facet="0" Icon="TOWNX" X="836" Y="689"/>
-	<Marker Name="Horseshoe Bay" Facet="0" Icon="TOWNX" X="2043" Y="2238"/>
-	<Marker Name="Outpost" Facet="0" Icon="TOWNX" X="3050" Y="558"/>
-	<Marker Name="Prevalia" Facet="0" Icon="TOWNX" X="1604" Y="1524"/>
-	<Marker Name="Shelter Island" Facet="0" Icon="TOWNX" X="1955" Y="2619"/>
-	<Marker Name="Terran" Facet="0" Icon="TOWNX" X="735" Y="1507"/>
-	<Marker Name="Totem" Facet="0" Icon="TOWNX" X="3852" Y="2893"/>
+	<Marker Name="Anchor's Rest" Facet="0" X="3754" Y="539" Icon="MAP_TOWN_ALT"/>
+	<Marker Name="Andaria" Facet="0" X="2188" Y="659" Icon="MAP_TOWN_ALT"/>
+	<Marker Name="Cambria" Facet="0" X="1765" Y="2995" Icon="MAP_TOWN_ALT"/>
+	<Marker Name="Corpse Creek" Facet="0" X="836" Y="689" Icon="MAP_TOWN_ALT"/>
+	<Marker Name="Horseshoe Bay" Facet="0" X="2043" Y="2238" Icon="MAP_TOWN_ALT"/>
+	<Marker Name="Outpost" Facet="0" X="3050" Y="558" Icon="MAP_TOWN_ALT"/>
+	<Marker Name="Prevalia" Facet="0" X="1604" Y="1524" Icon="MAP_TOWN_ALT"/>
+	<Marker Name="Shelter Island" Facet="0" X="1955" Y="2619" Icon="MAP_TOWN_ALT"/>
+	<Marker Name="Terran" Facet="0" X="735" Y="1507" Icon="MAP_TOWN_ALT"/>
+	<Marker Name="Totem" Facet="0" X="3852" Y="2893" Icon="MAP_TOWN_ALT"/>
 </Pack>

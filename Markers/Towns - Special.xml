@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Pack Name="Towns - Special" Revision="0">
-	<Marker Name="Casino" X="1675" Y="1482" Icon="SPECIAL" Facet="0"/>
-	<Marker Name="Exchange Officer" X="1666" Y="1483" Icon="SPECIAL" Facet="0"/>
-	<Marker Name="Hall of Societies" X="1689" Y="1445" Icon="SPECIAL" Facet="0"/>
-	<Marker Name="House Decay Lottery" X="1663" Y="1456" Icon="SPECIAL" Facet="0"/>
-	<Marker Name="Pawnbroker" X="1669" Y="1516" Icon="SPECIAL" Facet="0"/>
-	<Marker Name="Prevalian Merchant" X="1597" Y="1523" Icon="SPECIAL" Facet="0"/>
-	<Marker Name="Stylist" X="1659" Y="1483" Icon="SPECIAL" Facet="0"/>
+	<Marker Name="Casino" Facet="0" X="1675" Y="1482" Icon="SPECIAL"/>
+	<Marker Name="Exchange Officer" Facet="0" X="1666" Y="1483" Icon="SPECIAL"/>
+	<Marker Name="Hall of Societies" Facet="0" X="1689" Y="1445" Icon="SPECIAL"/>
+	<Marker Name="House Decay Lottery" Facet="0" X="1663" Y="1456" Icon="SPECIAL"/>
+	<Marker Name="Pawnbroker" Facet="0" X="1669" Y="1516" Icon="SPECIAL"/>
+	<Marker Name="Prevalian Merchant" Facet="0" X="1597" Y="1523" Icon="SPECIAL"/>
+	<Marker Name="Stylist" Facet="0" X="1659" Y="1483" Icon="SPECIAL"/>
 </Pack>

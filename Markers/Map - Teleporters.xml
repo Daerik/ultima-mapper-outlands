@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Pack Name="Map - Teleporters" Revision="0">
+	<Marker Name="To Blood Cult Island" Facet="0" X="3822" Y="1425" Icon="TELEPORTER"/>
+	<Marker Name="To Chaos Shrine" Facet="0" X="3743" Y="1431" Icon="TELEPORTER"/>
+	<Marker Name="To Chaos Shrine" Facet="0" X="3856" Y="1517" Icon="TELEPORTER"/>
+	<Marker Name="To Chaos Shrine" Facet="0" X="3924" Y="1349" Icon="TELEPORTER"/>
+	<Marker Name="To Chaos Viewpoint" Facet="0" X="3893" Y="1416" Icon="TELEPORTER"/>
+	<Marker Name="To Darkmire Island" Facet="0" X="1459" Y="2956" Icon="TELEPORTER"/>
+	<Marker Name="To Darkmire Island" Facet="0" X="2145" Y="3269" Icon="TELEPORTER"/>
+	<Marker Name="To Darkmire Island" Facet="0" X="2808" Y="3482" Icon="TELEPORTER"/>
+	<Marker Name="To Granite Docks" Facet="0" X="3984" Y="523" Icon="TELEPORTER"/>
+	<Marker Name="To Hidden Valley" Facet="0" X="2141" Y="3269" Icon="TELEPORTER"/>
+	<Marker Name="To Hidden Valley" Facet="0" X="2804" Y="3482" Icon="TELEPORTER"/>
+	<Marker Name="To Hidden Valley" Facet="0" X="3338" Y="3715" Icon="TELEPORTER"/>
+	<Marker Name="To Inferno Island" Facet="0" X="1455" Y="2960" Icon="TELEPORTER"/>
+	<Marker Name="To Inferno Island" Facet="0" X="2804" Y="3486" Icon="TELEPORTER"/>
+	<Marker Name="To Inferno Island" Facet="0" X="3338" Y="3719" Icon="TELEPORTER"/>
+	<Marker Name="To Jungle Baths Island" Facet="0" X="1459" Y="2960" Icon="TELEPORTER"/>
+	<Marker Name="To Jungle Baths Island" Facet="0" X="2145" Y="3273" Icon="TELEPORTER"/>
+	<Marker Name="To Jungle Baths Island" Facet="0" X="3342" Y="3719" Icon="TELEPORTER"/>
+	<Marker Name="To Mainland" Facet="0" X="980" Y="1789" Icon="TELEPORTER"/>
+	<Marker Name="To Minotaur Island" Facet="0" X="3840" Y="1473" Icon="TELEPORTER"/>
+	<Marker Name="To Morthuna" Facet="0" X="1090" Y="1793" Icon="TELEPORTER"/>
+	<Marker Name="To Prevalia" Facet="0" X="1954" Y="2636" Icon="TELEPORTER"/>
+	<Marker Name="To Smoking Pyre" Facet="0" X="3993" Y="515" Icon="TELEPORTER"/>
+	<Marker Name="To Southreach Inn" Facet="0" X="3993" Y="533" Icon="TELEPORTER"/>
+	<Marker Name="To Winter Harbor" Facet="0" X="4002" Y="523" Icon="TELEPORTER"/>
+</Pack>

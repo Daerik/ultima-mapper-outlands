@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Pack Name="NPC - Mapmakers" Revision="0">
-	<Marker Name="Shelter Mapmaker" X="1967" Y="2619" Icon="SIGN_MAPMAKER" Facet="0"/>
-	<Marker Name="Shelter Mapmaker" X="1933" Y="2656" Icon="SIGN_MAPMAKER" Facet="0"/>
-	<Marker Name="Andaria Mapmaker" X="2169" Y="789" Icon="SIGN_MAPMAKER" Facet="0"/>
-	<Marker Name="Horseshoe Bay Mapmaker" X="2014" Y="2243" Icon="SIGN_MAPMAKER" Facet="0"/>
-	<Marker Name="Cambria Mapmaker" X="1755" Y="3016" Icon="SIGN_MAPMAKER" Facet="0"/>
+	<Marker Name="Shelter Mapmaker" Facet="0" X="1967" Y="2619" Icon="SIGN_MAPMAKER"/>
+	<Marker Name="Shelter Mapmaker" Facet="0" X="1933" Y="2656" Icon="SIGN_MAPMAKER"/>
+	<Marker Name="Andaria Mapmaker" Facet="0" X="2169" Y="789" Icon="SIGN_MAPMAKER"/>
+	<Marker Name="Horseshoe Bay Mapmaker" Facet="0" X="2014" Y="2243" Icon="SIGN_MAPMAKER"/>
+	<Marker Name="Cambria Mapmaker" Facet="0" X="1755" Y="3016" Icon="SIGN_MAPMAKER"/>
 </Pack>

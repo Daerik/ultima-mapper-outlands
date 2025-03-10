@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Pack Name="Map - Progressive Spawns" Revision="0">
-	<Marker Name="Andaria Ruins" X="2378" Y="620" Icon="MOBBSA" Facet="0"/>
-	<Marker Name="Blackthorn's Fort" X="2490" Y="1096" Icon="MOBBSA" Facet="0"/>
-	<Marker Name="Citadel" X="2125" Y="2021" Icon="MOBBSA" Facet="0"/>
-	<Marker Name="Desert Manor" X="1171" Y="2722" Icon="MOBBSA" Facet="0"/>
-	<Marker Name="Idol Ruins" X="1060" Y="1473" Icon="MOBBSA" Facet="0"/>
-	<Marker Name="Lizardmen Scout Camp" X="2288" Y="2641" Icon="MOBBSA" Facet="0"/>
-	<Marker Name="Nusero Island" X="334" Y="2088" Icon="MOBBSA" Facet="0"/>
-	<Marker Name="Ogre Valley" X="1588" Y="2130" Icon="MOBBSA" Facet="0"/>
-	<Marker Name="Prevalia Keep" X="1335" Y="1301" Icon="MOBBSA" Facet="0"/>
-	<Marker Name="Ruined Lycaeum" X="1118" Y="1679" Icon="MOBBSA" Facet="0"/>
-	<Marker Name="Sacrificial Cliffs" X="2044" Y="1883" Icon="MOBBSA" Facet="0"/>
-	<Marker Name="Signal Fort" X="1475" Y="2142" Icon="MOBBSA" Facet="0"/>
-	<Marker Name="Snow Fortress" X="1074" Y="468" Icon="MOBBSA" Facet="0"/>
-	<Marker Name="Tanner's North Fort" X="2619" Y="443" Icon="MOBBSA" Facet="0"/>
-	<Marker Name="Tedious Terathan Point" X="2298" Y="3505" Icon="MOBBSA" Facet="0"/>
-	<Marker Name="Tribal Camp" X="3111" Y="3442" Icon="MOBBSA" Facet="0"/>
-	<Marker Name="Volcano Island" X="886" Y="3224" Icon="MOBBSA" Facet="0"/>
-	<Marker Name="Western Brigands Ruins 3" X="1045" Y="1366" Icon="MOBBSA" Facet="0"/>
-	<Marker Name="Western Ruins" X="605" Y="1254" Icon="MOBBSA" Facet="0"/>
+	<Marker Name="Andaria Ruins" Facet="0" X="2378" Y="620" Icon="MOBBSA"/>
+	<Marker Name="Blackthorn's Fort" Facet="0" X="2490" Y="1096" Icon="MOBBSA"/>
+	<Marker Name="Citadel" Facet="0" X="2125" Y="2021" Icon="MOBBSA"/>
+	<Marker Name="Desert Manor" Facet="0" X="1171" Y="2722" Icon="MOBBSA"/>
+	<Marker Name="Idol Ruins" Facet="0" X="1060" Y="1473" Icon="MOBBSA"/>
+	<Marker Name="Lizardmen Scout Camp" Facet="0" X="2288" Y="2641" Icon="MOBBSA"/>
+	<Marker Name="Nusero Island" Facet="0" X="334" Y="2088" Icon="MOBBSA"/>
+	<Marker Name="Ogre Valley" Facet="0" X="1588" Y="2130" Icon="MOBBSA"/>
+	<Marker Name="Prevalia Keep" Facet="0" X="1335" Y="1301" Icon="MOBBSA"/>
+	<Marker Name="Ruined Lycaeum" Facet="0" X="1118" Y="1679" Icon="MOBBSA"/>
+	<Marker Name="Sacrificial Cliffs" Facet="0" X="2044" Y="1883" Icon="MOBBSA"/>
+	<Marker Name="Signal Fort" Facet="0" X="1475" Y="2142" Icon="MOBBSA"/>
+	<Marker Name="Snow Fortress" Facet="0" X="1074" Y="468" Icon="MOBBSA"/>
+	<Marker Name="Tanner's North Fort" Facet="0" X="2619" Y="443" Icon="MOBBSA"/>
+	<Marker Name="Tedious Terathan Point" Facet="0" X="2298" Y="3505" Icon="MOBBSA"/>
+	<Marker Name="Tribal Camp" Facet="0" X="3111" Y="3442" Icon="MOBBSA"/>
+	<Marker Name="Volcano Island" Facet="0" X="886" Y="3224" Icon="MOBBSA"/>
+	<Marker Name="Western Brigands Ruins 3" Facet="0" X="1045" Y="1366" Icon="MOBBSA"/>
+	<Marker Name="Western Ruins" Facet="0" X="605" Y="1254" Icon="MOBBSA"/>
 </Pack>

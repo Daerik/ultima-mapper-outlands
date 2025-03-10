@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Pack Name="Towns - Taverns" Revision="0">
-	<Marker Name="Andaria Tavern" X="2193" Y="786" Icon="SIGN_TAVERN" Facet="0"/>
-	<Marker Name="Andaria Tavern" X="2242" Y="620" Icon="SIGN_TAVERN" Facet="0"/>
-	<Marker Name="Cambria Tavern" X="1796" Y="3001" Icon="SIGN_TAVERN" Facet="0"/>
-	<Marker Name="Corpse Creek Tavern" X="875" Y="739" Icon="SIGN_TAVERN" Facet="0"/>
-	<Marker Name="Horseshoe Bay Tavern" X="1994" Y="2206" Icon="SIGN_TAVERN" Facet="0"/>
-	<Marker Name="Horseshoe Bay Tavern" X="2023" Y="2294" Icon="SIGN_TAVERN" Facet="0"/>
-	<Marker Name="Outpost Tavern" X="3053" Y="509" Icon="SIGN_TAVERN" Facet="0"/>
-	<Marker Name="Prevalia Tavern" X="1636" Y="1474" Icon="SIGN_TAVERN" Facet="0"/>
-	<Marker Name="Prevalia Tavern" X="1688" Y="1602" Icon="SIGN_TAVERN" Facet="0"/>
-	<Marker Name="Prevalia Tavern" X="1942" Y="1599" Icon="SIGN_TAVERN" Facet="0"/>
-	<Marker Name="Shelter Tavern" X="1948" Y="2583" Icon="SIGN_TAVERN" Facet="0"/>
-	<Marker Name="Terran Tavern" X="708" Y="1472" Icon="SIGN_TAVERN" Facet="0"/>
+	<Marker Name="Andaria Tavern" Facet="0" X="2193" Y="786" Icon="SIGN_TAVERN"/>
+	<Marker Name="Andaria Tavern" Facet="0" X="2242" Y="620" Icon="SIGN_TAVERN"/>
+	<Marker Name="Cambria Tavern" Facet="0" X="1796" Y="3001" Icon="SIGN_TAVERN"/>
+	<Marker Name="Corpse Creek Tavern" Facet="0" X="875" Y="739" Icon="SIGN_TAVERN"/>
+	<Marker Name="Horseshoe Bay Tavern" Facet="0" X="1994" Y="2206" Icon="SIGN_TAVERN"/>
+	<Marker Name="Horseshoe Bay Tavern" Facet="0" X="2023" Y="2294" Icon="SIGN_TAVERN"/>
+	<Marker Name="Outpost Tavern" Facet="0" X="3053" Y="509" Icon="SIGN_TAVERN"/>
+	<Marker Name="Prevalia Tavern" Facet="0" X="1636" Y="1474" Icon="SIGN_TAVERN"/>
+	<Marker Name="Prevalia Tavern" Facet="0" X="1688" Y="1602" Icon="SIGN_TAVERN"/>
+	<Marker Name="Prevalia Tavern" Facet="0" X="1942" Y="1599" Icon="SIGN_TAVERN"/>
+	<Marker Name="Shelter Tavern" Facet="0" X="1948" Y="2583" Icon="SIGN_TAVERN"/>
+	<Marker Name="Terran Tavern" Facet="0" X="708" Y="1472" Icon="SIGN_TAVERN"/>
 </Pack>

@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Pack Name="NPC - Blacksmiths" Revision="0">
-	<Marker Name="Shelter Smith" X="1979" Y="2590" Icon="SIGN_BLACKSMITH" Facet="0"/>
-	<Marker Name="Shelter Smith" X="1980" Y="2553" Icon="SIGN_BLACKSMITH" Facet="0"/>
-	<Marker Name="Prevalia Smith" X="1645" Y="1548" Icon="SIGN_BLACKSMITH" Facet="0"/>
-	<Marker Name="Prevalia Smith" X="1867" Y="1674" Icon="SIGN_BLACKSMITH" Facet="0"/>
-	<Marker Name="Cambria Smith" X="1800" Y="2896" Icon="SIGN_BLACKSMITH" Facet="0"/>
-	<Marker Name="Andaria Smith" X="2191" Y="700" Icon="SIGN_BLACKSMITH" Facet="0"/>
-	<Marker Name="Andaria Smith" X="2153" Y="591" Icon="SIGN_BLACKSMITH" Facet="0"/>
-	<Marker Name="Andaria Smith" X="2170" Y="694" Icon="SIGN_BLACKSMITH" Facet="0"/>
-	<Marker Name="Horseshoe Bay Smith" X="2024" Y="2230" Icon="SIGN_BLACKSMITH" Facet="0"/>
-	<Marker Name="Terran Smith" X="696" Y="1512" Icon="SIGN_BLACKSMITH" Facet="0"/>
-	<Marker Name="Corpse Creek Smith" X="908" Y="731" Icon="SIGN_BLACKSMITH" Facet="0"/>
-	<Marker Name="Outpost Smith" X="3031" Y="541" Icon="SIGN_BLACKSMITH" Facet="0"/>
+	<Marker Name="Shelter Smith" Facet="0" X="1979" Y="2590" Icon="SIGN_BLACKSMITH"/>
+	<Marker Name="Shelter Smith" Facet="0" X="1980" Y="2553" Icon="SIGN_BLACKSMITH"/>
+	<Marker Name="Prevalia Smith" Facet="0" X="1645" Y="1548" Icon="SIGN_BLACKSMITH"/>
+	<Marker Name="Prevalia Smith" Facet="0" X="1867" Y="1674" Icon="SIGN_BLACKSMITH"/>
+	<Marker Name="Cambria Smith" Facet="0" X="1800" Y="2896" Icon="SIGN_BLACKSMITH"/>
+	<Marker Name="Andaria Smith" Facet="0" X="2191" Y="700" Icon="SIGN_BLACKSMITH"/>
+	<Marker Name="Andaria Smith" Facet="0" X="2153" Y="591" Icon="SIGN_BLACKSMITH"/>
+	<Marker Name="Andaria Smith" Facet="0" X="2170" Y="694" Icon="SIGN_BLACKSMITH"/>
+	<Marker Name="Horseshoe Bay Smith" Facet="0" X="2024" Y="2230" Icon="SIGN_BLACKSMITH"/>
+	<Marker Name="Terran Smith" Facet="0" X="696" Y="1512" Icon="SIGN_BLACKSMITH"/>
+	<Marker Name="Corpse Creek Smith" Facet="0" X="908" Y="731" Icon="SIGN_BLACKSMITH"/>
+	<Marker Name="Outpost Smith" Facet="0" X="3031" Y="541" Icon="SIGN_BLACKSMITH"/>
 </Pack>

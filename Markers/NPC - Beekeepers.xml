@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Pack Name="NPC - Beekeepers" Revision="0">
-	<Marker Name="Cambria Beekeeper" X="1743" Y="3037" Icon="SIGN_BEEKEEPER" Facet="0"/>
-	<Marker Name="Corpse Creek Beekeeper" X="859" Y="671" Icon="SIGN_BEEKEEPER" Facet="0"/>
+	<Marker Name="Cambria Beekeeper" Facet="0" X="1743" Y="3037" Icon="SIGN_BEEKEEPER"/>
+	<Marker Name="Corpse Creek Beekeeper" Facet="0" X="859" Y="671" Icon="SIGN_BEEKEEPER"/>
 </Pack>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Pack Name="Atlas - New Player" Revision="0">
-	<Marker Name="New Player Dungeon" Facet="0" Icon="NEWBIE" X="1913" Y="2566"/>
-	<Marker Name="Ratman Hovel" Facet="0" Icon="NEWBIE" X="1298" Y="1421"/>
-	<Marker Name="Shelter Island" Facet="0" Icon="NEWBIE" X="1955" Y="2619"/>
-	<Marker Name="Urukton Bluffs" Facet="0" Icon="NEWBIE" X="1912" Y="1129"/>
+	<Marker Name="New Player Dungeon" Facet="0" X="1913" Y="2566" Icon="NEWBIE"/>
+	<Marker Name="Ratman Hovel" Facet="0" X="1298" Y="1421" Icon="NEWBIE"/>
+	<Marker Name="Shelter Island" Facet="0" X="1955" Y="2619" Icon="NEWBIE"/>
+	<Marker Name="Urukton Bluffs" Facet="0" X="1912" Y="1129" Icon="NEWBIE"/>
 </Pack>

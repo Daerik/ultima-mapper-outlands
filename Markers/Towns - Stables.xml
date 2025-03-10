@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Pack Name="Towns - Stables" Revision="0">
-	<Marker Name="Andaria Stables" X="2126" Y="765" Icon="SIGN_STABLE" Facet="0"/>
-	<Marker Name="Andaria Stables" X="2170" Y="660" Icon="SIGN_STABLE" Facet="0"/>
-	<Marker Name="Andaria Stables" X="2250" Y="590" Icon="SIGN_STABLE" Facet="0"/>
-	<Marker Name="Cambria Stables" X="1696" Y="3030" Icon="SIGN_STABLE" Facet="0"/>
-	<Marker Name="Cambria Stables" X="1808" Y="3035" Icon="SIGN_STABLE" Facet="0"/>
-	<Marker Name="Corpse Creek Stables" X="895" Y="695" Icon="SIGN_STABLE" Facet="0"/>
-	<Marker Name="Horseshoe Bay Stables" X="2053" Y="2310" Icon="SIGN_STABLE" Facet="0"/>
-	<Marker Name="Horseshoe Bay Stables" X="2059" Y="2261" Icon="SIGN_STABLE" Facet="0"/>
-	<Marker Name="Outpost Stables" X="3035" Y="558" Icon="SIGN_STABLE" Facet="0"/>
-	<Marker Name="Prevalia Stables" X="1589" Y="1483" Icon="SIGN_STABLE" Facet="0"/>
-	<Marker Name="Prevalia Stables" X="1663" Y="1478" Icon="SIGN_STABLE" Facet="0"/>
-	<Marker Name="Prevalia Stables" X="1807" Y="1657" Icon="SIGN_STABLE" Facet="0"/>
-	<Marker Name="Shelter Stables" X="1930" Y="2608" Icon="SIGN_STABLE" Facet="0"/>
-	<Marker Name="Terran Stables" X="740" Y="1451" Icon="SIGN_STABLE" Facet="0"/>
+	<Marker Name="Andaria Stables" Facet="0" X="2126" Y="765" Icon="SIGN_STABLE"/>
+	<Marker Name="Andaria Stables" Facet="0" X="2170" Y="660" Icon="SIGN_STABLE"/>
+	<Marker Name="Andaria Stables" Facet="0" X="2250" Y="590" Icon="SIGN_STABLE"/>
+	<Marker Name="Cambria Stables" Facet="0" X="1696" Y="3030" Icon="SIGN_STABLE"/>
+	<Marker Name="Cambria Stables" Facet="0" X="1808" Y="3035" Icon="SIGN_STABLE"/>
+	<Marker Name="Corpse Creek Stables" Facet="0" X="895" Y="695" Icon="SIGN_STABLE"/>
+	<Marker Name="Horseshoe Bay Stables" Facet="0" X="2053" Y="2310" Icon="SIGN_STABLE"/>
+	<Marker Name="Horseshoe Bay Stables" Facet="0" X="2059" Y="2261" Icon="SIGN_STABLE"/>
+	<Marker Name="Outpost Stables" Facet="0" X="3035" Y="558" Icon="SIGN_STABLE"/>
+	<Marker Name="Prevalia Stables" Facet="0" X="1589" Y="1483" Icon="SIGN_STABLE"/>
+	<Marker Name="Prevalia Stables" Facet="0" X="1663" Y="1478" Icon="SIGN_STABLE"/>
+	<Marker Name="Prevalia Stables" Facet="0" X="1807" Y="1657" Icon="SIGN_STABLE"/>
+	<Marker Name="Shelter Stables" Facet="0" X="1930" Y="2608" Icon="SIGN_STABLE"/>
+	<Marker Name="Terran Stables" Facet="0" X="740" Y="1451" Icon="SIGN_STABLE"/>
 </Pack>

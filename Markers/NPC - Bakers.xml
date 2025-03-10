@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Pack Name="NPC - Bakers" Revision="0">
-	<Marker Name="Prevalia Baker" X="1598" Y="1548" Icon="SIGN_BAKER" Facet="0"/>
-	<Marker Name="Prevalia Baker" X="1678" Y="1620" Icon="SIGN_BAKER" Facet="0"/>
-	<Marker Name="Cambria Baker" X="1724" Y="3040" Icon="SIGN_BAKER" Facet="0"/>
-	<Marker Name="Cambria Baker" X="1888" Y="3072" Icon="SIGN_BAKER" Facet="0"/>
-	<Marker Name="Andaria Baker" X="2171" Y="649" Icon="SIGN_BAKER" Facet="0"/>
-	<Marker Name="Horseshoe Bay Baker" X="2048" Y="2258" Icon="SIGN_BAKER" Facet="0"/>
-	<Marker Name="Terran Baker" X="681" Y="1509" Icon="SIGN_BAKER" Facet="0"/>
-	<Marker Name="Corpse Creek Baker" X="876" Y="713" Icon="SIGN_BAKER" Facet="0"/>
-	<Marker Name="Outpost Baker" X="3059" Y="543" Icon="SIGN_BAKER" Facet="0"/>
+	<Marker Name="Prevalia Baker" Facet="0" X="1598" Y="1548" Icon="SIGN_BAKER"/>
+	<Marker Name="Prevalia Baker" Facet="0" X="1678" Y="1620" Icon="SIGN_BAKER"/>
+	<Marker Name="Cambria Baker" Facet="0" X="1724" Y="3040" Icon="SIGN_BAKER"/>
+	<Marker Name="Cambria Baker" Facet="0" X="1888" Y="3072" Icon="SIGN_BAKER"/>
+	<Marker Name="Andaria Baker" Facet="0" X="2171" Y="649" Icon="SIGN_BAKER"/>
+	<Marker Name="Horseshoe Bay Baker" Facet="0" X="2048" Y="2258" Icon="SIGN_BAKER"/>
+	<Marker Name="Terran Baker" Facet="0" X="681" Y="1509" Icon="SIGN_BAKER"/>
+	<Marker Name="Corpse Creek Baker" Facet="0" X="876" Y="713" Icon="SIGN_BAKER"/>
+	<Marker Name="Outpost Baker" Facet="0" X="3059" Y="543" Icon="SIGN_BAKER"/>
 </Pack>

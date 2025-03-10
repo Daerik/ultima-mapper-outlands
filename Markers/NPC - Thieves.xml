@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Pack Name="NPC - Thieves" Revision="0">
-	<Marker Name="Shelter Thief" X="1936" Y="2593" Icon="SIGN_THIEVES_GUILD" Facet="0"/>
+	<Marker Name="Shelter Thief" Facet="0" X="1936" Y="2593" Icon="SIGN_THIEVES_GUILD"/>
 </Pack>

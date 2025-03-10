@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Pack Name="NPC - Tanners" Revision="0">
-	<Marker Name="Shelter Tanner" X="1994" Y="2616" Icon="SIGN_TANNER" Facet="0"/>
-	<Marker Name="Andaria Tanner" X="2155" Y="730" Icon="SIGN_TANNER" Facet="0"/>
-	<Marker Name="Horseshoe Bay Tanner" X="2045" Y="2293" Icon="SIGN_TANNER" Facet="0"/>
-	<Marker Name="Cambria Tanner" X="1887" Y="3090" Icon="SIGN_TANNER" Facet="0"/>
+	<Marker Name="Shelter Tanner" Facet="0" X="1994" Y="2616" Icon="SIGN_TANNER"/>
+	<Marker Name="Andaria Tanner" Facet="0" X="2155" Y="730" Icon="SIGN_TANNER"/>
+	<Marker Name="Horseshoe Bay Tanner" Facet="0" X="2045" Y="2293" Icon="SIGN_TANNER"/>
+	<Marker Name="Cambria Tanner" Facet="0" X="1887" Y="3090" Icon="SIGN_TANNER"/>
 </Pack>

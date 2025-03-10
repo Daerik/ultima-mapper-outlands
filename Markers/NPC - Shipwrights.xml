@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Pack Name="NPC - Shipwrights" Revision="0">
-	<Marker Name="Shelter Shipwright" X="1974" Y="2620" Icon="SIGN_SHIPWRIGHT" Facet="0"/>
-	<Marker Name="Andaria Shipwright" X="2213" Y="780" Icon="SIGN_SHIPWRIGHT" Facet="0"/>
-	<Marker Name="Horseshoe Bay Shipwright" X="2028" Y="2187" Icon="SIGN_SHIPWRIGHT" Facet="0"/>
-	<Marker Name="Cambria Shipwright" X="1897" Y="3089" Icon="SIGN_SHIPWRIGHT" Facet="0"/>
+	<Marker Name="Shelter Shipwright" Facet="0" X="1974" Y="2620" Icon="SIGN_SHIPWRIGHT"/>
+	<Marker Name="Andaria Shipwright" Facet="0" X="2213" Y="780" Icon="SIGN_SHIPWRIGHT"/>
+	<Marker Name="Horseshoe Bay Shipwright" Facet="0" X="2028" Y="2187" Icon="SIGN_SHIPWRIGHT"/>
+	<Marker Name="Cambria Shipwright" Facet="0" X="1897" Y="3089" Icon="SIGN_SHIPWRIGHT"/>
 </Pack>

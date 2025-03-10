@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Pack Name="NPC - Cooks" Revision="0">
-	<Marker Name="Andaria Cook" X="2170" Y="777" Icon="SIGN_COOKS_GUILD" Facet="0"/>
-	<Marker Name="Horseshoe Bay Cook" X="2047" Y="2265" Icon="SIGN_COOKS_GUILD" Facet="0"/>
-	<Marker Name="Cambria Cook" X="1712" Y="3032" Icon="SIGN_COOKS_GUILD" Facet="0"/>
-	<Marker Name="Cambria Cook" X="1670" Y="3010" Icon="SIGN_COOKS_GUILD" Facet="0"/>
+	<Marker Name="Andaria Cook" Facet="0" X="2170" Y="777" Icon="SIGN_COOKS_GUILD"/>
+	<Marker Name="Horseshoe Bay Cook" Facet="0" X="2047" Y="2265" Icon="SIGN_COOKS_GUILD"/>
+	<Marker Name="Cambria Cook" Facet="0" X="1712" Y="3032" Icon="SIGN_COOKS_GUILD"/>
+	<Marker Name="Cambria Cook" Facet="0" X="1670" Y="3010" Icon="SIGN_COOKS_GUILD"/>
 </Pack>
