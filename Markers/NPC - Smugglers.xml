@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Pack Name="NPC - Smugglers" Revision="0">
+	<Marker Name="Acanit the Smuggler" X="836" Y="744" Icon="TRAP" Facet="0"/>
+	<Marker Name="Brog'grut the Smuggle" X="1129" Y="995" Icon="TRAP" Facet="0"/>
+	<Marker Name="Caresse the Smuggler" X="3405" Y="921" Icon="TRAP" Facet="0"/>
+	<Marker Name="Delmore the Smuggler" X="4279" Y="114" Icon="TRAP" Facet="0"/>
+	<Marker Name="Jude the Smuggler" X="1499" Y="2553" Icon="TRAP" Facet="0"/>
+	<Marker Name="Nadia the Smuggler" X="3171" Y="306" Icon="TRAP" Facet="0"/>
+	<Marker Name="Sabirah the Smuggler" X="886" Y="928" Icon="TRAP" Facet="0"/>
+</Pack>
