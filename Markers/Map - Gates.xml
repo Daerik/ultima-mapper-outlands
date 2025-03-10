@@ -282,12 +282,12 @@
 	<Marker Name="To Level 3.5" X="5984" Y="0234" Icon="STAIRS_TO_SIDE_ROOM" Facet="0"/>
 	<Marker Name="To Level 3.5" X="5993" Y="0256" Icon="STAIRS_TO_SIDE_ROOM" Facet="0"/>
 	<Marker Name="To Level 3.5" X="6023" Y="0268" Icon="STAIRS_TO_SIDE_ROOM" Facet="0"/>
-	<Marker Name="To Level 4" X="5254" Y="0736" Icon="STAIRS" Facet="0"/>
-	<Marker Name="To Level 4" X="5266" Y="0628" Icon="STAIRS" Facet="0"/>
-	<Marker Name="To Level 4" X="5962" Y="0900" Icon="STAIRS" Facet="0"/>
-	<Marker Name="To Level 4" X="6041" Y="0913" Icon="STAIRS" Facet="0"/>
-	<Marker Name="To Level 4" X="6051" Y="0377" Icon="STAIRS" Facet="0"/>
-	<Marker Name="To Level 4" X="6056" Y="0303" Icon="STAIRS" Facet="0"/>
+	<Marker Name="To Level 4" X="5254" Y="0736" Icon="STAIRS_TO_LEVEL_4" Facet="0"/>
+	<Marker Name="To Level 4" X="5266" Y="0628" Icon="STAIRS_TO_LEVEL_4" Facet="0"/>
+	<Marker Name="To Level 4" X="5962" Y="0900" Icon="STAIRS_TO_LEVEL_4" Facet="0"/>
+	<Marker Name="To Level 4" X="6041" Y="0913" Icon="STAIRS_TO_LEVEL_4" Facet="0"/>
+	<Marker Name="To Level 4" X="6051" Y="0377" Icon="STAIRS_TO_LEVEL_4" Facet="0"/>
+	<Marker Name="To Level 4" X="6056" Y="0303" Icon="STAIRS_TO_LEVEL_4" Facet="0"/>
 	<Marker Name="To Mainland" X="0980" Y="1789" Icon="STAIRS" Facet="0"/>
 	<Marker Name="To Mainland" X="3893" Y="1416" Icon="STAIRS" Facet="0"/>
 	<Marker Name="To Mini-Boss Room" X="3435" Y="0748" Icon="STAIRS_TO_MINI_BOSS_ROOM" Facet="0"/>
