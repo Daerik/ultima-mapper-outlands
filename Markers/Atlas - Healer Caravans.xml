@@ -1,45 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Pack Name="Atlas - Healer Caravans" Revision="0">
-	<Marker Name="Anchor's Rest North Caravan" Facet="0" X="3763" Y="396" Icon="FLAG_CARAVAN"/>
-	<Marker Name="Anchor's Rest South Caravan" Facet="0" X="3728" Y="690" Icon="FLAG_CARAVAN"/>
-	<Marker Name="Anchor's Rest West Caravan" Facet="0" X="3585" Y="529" Icon="FLAG_CARAVAN"/>
-	<Marker Name="Andaria Gate Caravan" Facet="0" X="1990" Y="925" Icon="FLAG_CARAVAN"/>
-	<Marker Name="Burnt Cove Caravan" Facet="0" X="1126" Y="1962" Icon="FLAG_CARAVAN"/>
-	<Marker Name="Cambria Gate Caravan" Facet="0" X="1473" Y="2854" Icon="FLAG_CARAVAN"/>
-	<Marker Name="Desert Quarry Caravan" Facet="0" X="1379" Y="2854" Icon="FLAG_CARAVAN"/>
-	<Marker Name="Dragoncrest Caravan" Facet="0" X="3501" Y="3571" Icon="FLAG_CARAVAN"/>
-	<Marker Name="Farmlands Caravan" Facet="0" X="1866" Y="1206" Icon="FLAG_CARAVAN"/>
-	<Marker Name="Fury's Caldera Caravan" Facet="0" X="3992" Y="2515" Icon="FLAG_CARAVAN"/>
-	<Marker Name="Horseshoe Bay Swamps Caravan" Facet="0" X="2225" Y="2250" Icon="FLAG_CARAVAN"/>
-	<Marker Name="Ice Prison Caravan" Facet="0" X="3941" Y="259" Icon="FLAG_CARAVAN"/>
-	<Marker Name="Kraul Frontier Caravan" Facet="0" X="4086" Y="2667" Icon="FLAG_CARAVAN"/>
-	<Marker Name="Lizardmen Caravan" Facet="0" X="1406" Y="2091" Icon="FLAG_CARAVAN"/>
-	<Marker Name="Mana Isles Caravan" Facet="0" X="3700" Y="3288" Icon="FLAG_CARAVAN"/>
-	<Marker Name="Midlands Caravan" Facet="0" X="1634" Y="1996" Icon="FLAG_CARAVAN"/>
-	<Marker Name="New Buccaneers Den Caravan" Facet="0" X="2130" Y="3231" Icon="FLAG_CARAVAN"/>
-	<Marker Name="Nomad Outpost Caravan" Facet="0" X="1158" Y="2618" Icon="FLAG_CARAVAN"/>
-	<Marker Name="Northwest Caravan" Facet="0" X="1451" Y="715" Icon="FLAG_CARAVAN"/>
-	<Marker Name="Nusero Island Caravan" Facet="0" X="307" Y="1767" Icon="FLAG_CARAVAN"/>
-	<Marker Name="Ogre Valley Caravan" Facet="0" X="1717" Y="2312" Icon="FLAG_CARAVAN"/>
-	<Marker Name="Old Jhelom Caravan" Facet="0" X="4429" Y="2599" Icon="FLAG_CARAVAN"/>
-	<Marker Name="Old Papua Falls Caravan" Facet="0" X="3725" Y="2878" Icon="FLAG_CARAVAN"/>
-	<Marker Name="Prevalia Bog Caravan" Facet="0" X="1477" Y="1754" Icon="FLAG_CARAVAN"/>
-	<Marker Name="Prevalia Gate Caravan" Facet="0" X="1201" Y="2368" Icon="FLAG_CARAVAN"/>
-	<Marker Name="Prevalia Signal Ridge Caravan" Facet="0" X="1495" Y="1905" Icon="FLAG_CARAVAN"/>
-	<Marker Name="Rickety Bridge Caravan" Facet="0" X="4181" Y="821" Icon="FLAG_CARAVAN"/>
-	<Marker Name="Ruined Lycaeum Caravan" Facet="0" X="1266" Y="1624" Icon="FLAG_CARAVAN"/>
-	<Marker Name="Saltshore Docklands Caravan" Facet="0" X="3466" Y="2850" Icon="FLAG_CARAVAN"/>
-	<Marker Name="Shadowspire Cathedral Caravan" Facet="0" X="3496" Y="835" Icon="FLAG_CARAVAN"/>
-	<Marker Name="Shattered Nujel'm Caravan" Facet="0" X="3096" Y="3074" Icon="FLAG_CARAVAN"/>
-	<Marker Name="Shelter Haven Caravan" Facet="0" X="1598" Y="2576" Icon="FLAG_CARAVAN"/>
-	<Marker Name="Snow Northeast 1 Caravan" Facet="0" X="2884" Y="436" Icon="FLAG_CARAVAN"/>
-	<Marker Name="Snow Northeast 2 Caravan" Facet="0" X="2468" Y="369" Icon="FLAG_CARAVAN"/>
-	<Marker Name="Snow Northwest Caravan" Facet="0" X="1524" Y="559" Icon="FLAG_CARAVAN"/>
-	<Marker Name="Southern Ruins Caravan" Facet="0" X="3961" Y="1178" Icon="FLAG_CARAVAN"/>
-	<Marker Name="Tarsands Caravan" Facet="0" X="3835" Y="2648" Icon="FLAG_CARAVAN"/>
-	<Marker Name="Tidal Tombs Caravan" Facet="0" X="3880" Y="3641" Icon="FLAG_CARAVAN"/>
-	<Marker Name="Western Ruins Caravan" Facet="0" X="709" Y="1191" Icon="FLAG_CARAVAN"/>
-	<Marker Name="Whisperwood Caravan" Facet="0" X="4093" Y="2964" Icon="FLAG_CARAVAN"/>
-	<Marker Name="Wildside Caravan" Facet="0" X="1238" Y="1322" Icon="FLAG_CARAVAN"/>
-	<Marker Name="Winter Harbor Caravan" Facet="0" X="4284" Y="161" Icon="FLAG_CARAVAN"/>
+	<Marker Name="Anchor's Rest North Caravan" Facet="0" X="3763" Y="396" Icon="SIGN_CARAVAN"/>
+	<Marker Name="Anchor's Rest South Caravan" Facet="0" X="3728" Y="690" Icon="SIGN_CARAVAN"/>
+	<Marker Name="Anchor's Rest West Caravan" Facet="0" X="3585" Y="529" Icon="SIGN_CARAVAN"/>
+	<Marker Name="Andaria Gate Caravan" Facet="0" X="1990" Y="925" Icon="SIGN_CARAVAN"/>
+	<Marker Name="Burnt Cove Caravan" Facet="0" X="1126" Y="1962" Icon="SIGN_CARAVAN"/>
+	<Marker Name="Cambria Gate Caravan" Facet="0" X="1473" Y="2854" Icon="SIGN_CARAVAN"/>
+	<Marker Name="Desert Quarry Caravan" Facet="0" X="1379" Y="2854" Icon="SIGN_CARAVAN"/>
+	<Marker Name="Dragoncrest Caravan" Facet="0" X="3501" Y="3571" Icon="SIGN_CARAVAN"/>
+	<Marker Name="Farmlands Caravan" Facet="0" X="1866" Y="1206" Icon="SIGN_CARAVAN"/>
+	<Marker Name="Fury's Caldera Caravan" Facet="0" X="3992" Y="2515" Icon="SIGN_CARAVAN"/>
+	<Marker Name="Horseshoe Bay Swamps Caravan" Facet="0" X="2225" Y="2250" Icon="SIGN_CARAVAN"/>
+	<Marker Name="Ice Prison Caravan" Facet="0" X="3941" Y="259" Icon="SIGN_CARAVAN"/>
+	<Marker Name="Kraul Frontier Caravan" Facet="0" X="4086" Y="2667" Icon="SIGN_CARAVAN"/>
+	<Marker Name="Lizardmen Caravan" Facet="0" X="1406" Y="2091" Icon="SIGN_CARAVAN"/>
+	<Marker Name="Mana Isles Caravan" Facet="0" X="3700" Y="3288" Icon="SIGN_CARAVAN"/>
+	<Marker Name="Midlands Caravan" Facet="0" X="1634" Y="1996" Icon="SIGN_CARAVAN"/>
+	<Marker Name="New Buccaneers Den Caravan" Facet="0" X="2130" Y="3231" Icon="SIGN_CARAVAN"/>
+	<Marker Name="Nomad Outpost Caravan" Facet="0" X="1158" Y="2618" Icon="SIGN_CARAVAN"/>
+	<Marker Name="Northwest Caravan" Facet="0" X="1451" Y="715" Icon="SIGN_CARAVAN"/>
+	<Marker Name="Nusero Island Caravan" Facet="0" X="307" Y="1767" Icon="SIGN_CARAVAN"/>
+	<Marker Name="Ogre Valley Caravan" Facet="0" X="1717" Y="2312" Icon="SIGN_CARAVAN"/>
+	<Marker Name="Old Jhelom Caravan" Facet="0" X="4429" Y="2599" Icon="SIGN_CARAVAN"/>
+	<Marker Name="Old Papua Falls Caravan" Facet="0" X="3725" Y="2878" Icon="SIGN_CARAVAN"/>
+	<Marker Name="Prevalia Bog Caravan" Facet="0" X="1477" Y="1754" Icon="SIGN_CARAVAN"/>
+	<Marker Name="Prevalia Gate Caravan" Facet="0" X="1201" Y="2368" Icon="SIGN_CARAVAN"/>
+	<Marker Name="Prevalia Signal Ridge Caravan" Facet="0" X="1495" Y="1905" Icon="SIGN_CARAVAN"/>
+	<Marker Name="Rickety Bridge Caravan" Facet="0" X="4181" Y="821" Icon="SIGN_CARAVAN"/>
+	<Marker Name="Ruined Lycaeum Caravan" Facet="0" X="1266" Y="1624" Icon="SIGN_CARAVAN"/>
+	<Marker Name="Saltshore Docklands Caravan" Facet="0" X="3466" Y="2850" Icon="SIGN_CARAVAN"/>
+	<Marker Name="Shadowspire Cathedral Caravan" Facet="0" X="3496" Y="835" Icon="SIGN_CARAVAN"/>
+	<Marker Name="Shattered Nujel'm Caravan" Facet="0" X="3096" Y="3074" Icon="SIGN_CARAVAN"/>
+	<Marker Name="Shelter Haven Caravan" Facet="0" X="1598" Y="2576" Icon="SIGN_CARAVAN"/>
+	<Marker Name="Snow Northeast 1 Caravan" Facet="0" X="2884" Y="436" Icon="SIGN_CARAVAN"/>
+	<Marker Name="Snow Northeast 2 Caravan" Facet="0" X="2468" Y="369" Icon="SIGN_CARAVAN"/>
+	<Marker Name="Snow Northwest Caravan" Facet="0" X="1524" Y="559" Icon="SIGN_CARAVAN"/>
+	<Marker Name="Southern Ruins Caravan" Facet="0" X="3961" Y="1178" Icon="SIGN_CARAVAN"/>
+	<Marker Name="Tarsands Caravan" Facet="0" X="3835" Y="2648" Icon="SIGN_CARAVAN"/>
+	<Marker Name="Tidal Tombs Caravan" Facet="0" X="3880" Y="3641" Icon="SIGN_CARAVAN"/>
+	<Marker Name="Western Ruins Caravan" Facet="0" X="709" Y="1191" Icon="SIGN_CARAVAN"/>
+	<Marker Name="Whisperwood Caravan" Facet="0" X="4093" Y="2964" Icon="SIGN_CARAVAN"/>
+	<Marker Name="Wildside Caravan" Facet="0" X="1238" Y="1322" Icon="SIGN_CARAVAN"/>
+	<Marker Name="Winter Harbor Caravan" Facet="0" X="4284" Y="161" Icon="SIGN_CARAVAN"/>
 </Pack>
